@@ -4,241 +4,241 @@
 translate english zavod_779ec485:
 
     # "Только открыв дверь в заводской цех и переступив за порог, вас встретила девушка с собеседования. В руках она держала рабочую форму."
-    ""
+    "Opening the door to the factory floor and stepping through it, you meet the girl who interviewed you. In her hands she held a working uniform."
 
 # game/joob.rpy:11
 translate english zavod_21289ae8:
 
     # n "Вот, держи."
-    n ""
+    n "Here, take it."
 
 # game/joob.rpy:12
 translate english zavod_b2b17af0:
 
     # "После этих слов девушка передала вам форму, которую вы сразу же взяли."
-    ""
+    "After those words the girl handed you the uniform, which you immediately take."
 
 # game/joob.rpy:13
 translate english zavod_4636ef8e:
 
     # n "Раздевалка прямо по коридору, там будет еще большое скопление людей. Удачной тебе смены!"
-    n ""
+    n "The dressing room is right down the hall, there will be a large crowd of people. Good luck to you!"
 
 # game/joob.rpy:14
 translate english zavod_95bd70d7:
 
     # "Почесав затылок в раздумьях ничего ли она не забыла вам сказать, девушка пожала плечами, а после покинула вас."
-    ""
+    "After scratching her head in thought and deciding that she didn’t forget to tell you anything, the girl shrugged and left you on your own."
 
 # game/joob.rpy:17
 translate english zavod_8d26be35:
 
     # "Послушав ее, вы дошли до раздевалки, где было достаточно много людей за тридцать. Пройдя в самый конец, вы переоделись в рабочую форму, как буквально в тот же момент к вам подошел достаточно старый мужчина."
-    ""
-
+    "After listening to her, you head to the dressing room, where you discover that there are a lot of people in their thirties. Going to the very end, you change into the working uniform as right after that a fairly old man approaches you."
+    # Under revision
 # game/joob.rpy:18
 translate english zavod_1fd47eaf:
 
     # f "Так значит это ты новый работник, которого я должен обучать?"
-    f ""
+    f "So, are you the new employee I have to train?"
 
 # game/joob.rpy:19
 translate english zavod_c0a67090:
 
     # "Произнес он, оголив свой рот, где не хватало если не парочку, то под десяток зубов уж точно. Вы ответили на его вопрос положительно."
-    ""
+    "He said, exposing his mouth where if not a couple, then a dozen teeth were missing. You answer his question in affirmative."
 
 # game/joob.rpy:20
 translate english zavod_02cb0041:
 
     # f "Значит так, сейчас у меня много работы, так что скажи мне: тебе действительно нужно обучение?"
-    f ""
+    f "Now, I have a lot of work to do so tell me: Do you really need training?"
 
 # game/joob.rpy:23
 translate english zavod_8825be11:
 
     # "Тяжело вздохнув, работник начал рассказывать, что нужно делать"
-    ""
+    "Sighing heavily the old man began to tell you what to do."
 
 # game/joob.rpy:24
 translate english zavod_69aa3b35:
 
     # "Если быть кратким, то твоя задача состоит в том, чтобы нажимать правильные кнопки в нужный момент. Обычное QTE. Простое и понятное."
-    ""
+    "To be brief, your task is to press the right buttons at the right time. The usual Quick Time Event. Simple and straightforward."
 
 # game/joob.rpy:27
 translate english zavod_0a6b3a9f:
 
     # f "Ну вот и отлично. Значит я пошел."
-    f ""
+    f "Well, that's great. I'll be leaving then."
 
 # game/joob.rpy:28
 translate english zavod_57e5f3ef:
 
     # "Развернувшийся к вам спиной мужчина вскоре пропал из виду, уйдя в цех и оставив вас одного. Вскоре вы последовали его примеру."
-    ""
-
+    "You soon lose sight of the old man, having left the dressing room and left you alone. Soon you follow suit."
+    # Under revision
 # game/joob.rpy:31
 translate english zavod_ae78f081:
 
     # "Придя на очередную смену завода, вы быстро переоделись и направились к уже привычному для вас станку."
-    ""
+    "Arriving at the next shift of the plant, you quickly change clothes and head to the same familiar machine."
 
 # game/joob.rpy:34
 translate english zavod_1c8e158d:
 
     # "Just opening the door to the factory floor and stepping over the threshold, did you meet the girl for an interview."
-    ""
+    "Opening the door to the factory floor and stepping through it, you meet the girl who interviewed you. In her hands she held a working uniform."
 
 # game/joob.rpy:36
 translate english zavod_7b72f927:
 
     # n "Here you are."
-    n ""
+    n "Here, take it."
 
 # game/joob.rpy:37
 translate english zavod_01397280:
 
     # "After these words, the girl gave you the form that you immediately took."
-    ""
+    "After those words the girl handed you the uniform, which you immediately took."
 
 # game/joob.rpy:38
 translate english zavod_7382cbb3:
 
     # n "The dressing room is right down the hall, there will be a still large crowd of people. Have a nice change!"
-    n ""
+    n "The dressing room is right down the hall, there will be a large crowd of people. Good luck!"
 
 # game/joob.rpy:39
 translate english zavod_b03a85ac:
 
     # "Having scratched her head in thought, didn’t she forget to tell you anything, the girl shrugged, and then left you."
-    ""
+    "After scratching her head in thought and deciding that she didn’t forget to tell you anything, the girl shrugged and left you on your own."
 
 # game/joob.rpy:42
 translate english zavod_7c2342b7:
 
     # "After listening to her, you got to the locker room, where there were quite a lot of people over thirty. Having gone to the very end, you changed into a working uniform, as literally at that very moment a fairly old man came up to you."
-    ""
+    "After listening to her, you reached the dressing room, where there are a lot of people in their thirties. Going to the very end, you change into the working uniform as at that very moment a fairly old man approached you."
 
 # game/joob.rpy:43
 translate english zavod_cdffc9e8:
 
     # f "So, now I have a lot of work, so tell me: do you really need training?"
-    f ""
+    f "So, are you the new employee I have to train?"
 
 # game/joob.rpy:46
 translate english zavod_d7e05cd4:
 
     # "Taking a deep breath, the employee began to tell what to do."
-    ""
+    "Sighing heavily the old man began to tell you what to do."
 
 # game/joob.rpy:47
 translate english zavod_d9fd624a:
 
     # "To be brief, your task is to press the right buttons at the right time. Normal QTE. Simple and straightforward."
-    ""
+    "To be brief, your task is to press the right buttons at the right time. The usual Quick Time Event. Simple and straightforward."
 
 # game/joob.rpy:50
 translate english zavod_9288c67a:
 
     # f "Well, that's great. So I went."
-    f ""
+    f "Well, that's great. I'll be leaving then."
 
 # game/joob.rpy:51
 translate english zavod_28b1d64a:
 
     # "The man who turned his back on you soon lost sight of him, having left the workshop and left you alone. Soon you followed suit."
-    ""
+    "You soon lose sight of the old man, having left the dressing room and left you alone. Soon you follow suit."
 
 # game/joob.rpy:54
 translate english zavod_45ba9fb0:
 
     # "Arriving at the next shift of the plant, you quickly changed clothes and headed to the machine that was already familiar to you."
-    ""
+    "Arriving at the next shift of the plant, you quickly change clothes and head to the same familiar machine."
 
 # game/joob.rpy:59
 translate english complex_zavod_05007883:
 
     # "Вы закончили на сегодня свою смену."
-    ""
+    "Opening the door to the factory floor and stepping through it, you meet the girl who interviewed you. In her hands she held a working uniform."
 
 # game/joob.rpy:61
 translate english complex_zavod_66a5d877:
 
     # "You have finished your shift today."
-    ""
+    "You have finished your shift for today."
 
 # game/joob.rpy:67
 translate english complex_zavod_18b73097:
 
     # "Подойдя к станку, вы начали делать то, за что вам, собственно, и платят"
-    ""
+    "Approaching the machine, you begin to do what you are in fact, paid to do."
 
 # game/joob.rpy:69
 translate english complex_zavod_8573c608:
 
     # "Approaching the machine, you began to do what you, in fact, are paid for"
-    ""
+    "Approaching the machine, you begin to do what you are in fact, paid to do."
 
 # game/joob.rpy:102
 translate english zavod_relaxation_09981b72:
 
     # "Как только вы закурили, в вас будто прибавилось энергии, и вы были буквально готовы работать 24/7."
-    ""
+    "As soon as you lit a cigarette, your energy sseemed to have increased and you fell like you're ready to work 24/7."
 
 # game/joob.rpy:103
 translate english zavod_relaxation_2719ef21:
 
     # "Через 5 минут вы встали и пошли обратно за станок"
-    ""
+    "After 5 minutes you got up and went back to the machine."
 
 # game/joob.rpy:106
 translate english zavod_relaxation_b5c807f4:
 
     # "У вас нет сигарет."
-    ""
+    "You have no cigarettes."
 
 # game/joob.rpy:110
 translate english zavod_relaxation_89971f88:
 
     # "Упав на лавочку, вы расслабились, дожидаясь, пока хоть немного, но вы восстановите свои силы."
-    ""
+    "Lying down on a bench, you relaxed, waiting for a little bit as you regain your strength."
 
 # game/joob.rpy:111
 translate english zavod_relaxation_2719ef21_1:
 
     # "Через 5 минут вы встали и пошли обратно за станок"
-    ""
+    "After 5 minutes you got up and went back to the machine."
 
 # game/joob.rpy:118
 translate english zavod_relaxation_40ea257c:
 
     # "As soon as you lit a cigarette, you seemed to have increased energy, and you were literally ready to work 24/7."
-    ""
+    "As soon as you lit a cigarette, your energy sseemed to have increased and you fell like you're ready to work 24/7."
 
 # game/joob.rpy:119
 translate english zavod_relaxation_03d0a8a4:
 
     # "After 5 minutes you got up and went back behind the machine"
-    ""
+    "After 5 minutes you got up and went back to the machine."
 
 # game/joob.rpy:122
 translate english zavod_relaxation_b5c807f4_1:
 
     # "У вас нет сигарет."
-    ""
+    "You have no cigarettes."
 
 # game/joob.rpy:126
 translate english zavod_relaxation_4ad5fc6c:
 
     # "Having fallen on a bench, you relaxed, waiting until at least a little, but you will regain your strength."
-    ""
+    "Lying down on a bench, you relaxed, waiting for a little bit as you regain your strength."
 
 # game/joob.rpy:127
 translate english zavod_relaxation_25e1c212:
 
     # "After 5 minutes you got up and went back behind the machine."
-    ""
+    "After 5 minutes you got up and went back to the machine."
 
 # game/joob.rpy:224
 translate english magazine_game_over_4a0ab277:
@@ -256,13 +256,13 @@ translate english magazine_game_over_61e01733:
 translate english magazine_game_over_e4841a4f:
 
     # "Закончив с работой, вы ловите на себе одобрительный взгляд вашего начальника. Возможно, если вы продолжите работать в том же духе, вас ждёт повышение!"
-    "When you're done with your work , you get an approving look from your boss. Perhaps, if you continue to work in the same spirit, you will be promoted!"
+    "When you're done with your work , you get an approving look from your boss. Perhaps, if you continue to work with the same spirit, you will be promoted!"
 
 # game/joob.rpy:256
 translate english magazine_game_over_6ec3de55:
 
     # "Вы получили премию!"
-    "You have received an award!"
+    "You have received a bonus!"
 
 # game/joob.rpy:257
 translate english magazine_game_over_cbb2f41b:
@@ -274,7 +274,7 @@ translate english magazine_game_over_cbb2f41b:
 translate english magazine_game_over_fee21228:
 
     # "Уходя с работы, вы чувствуете небольшую усталость, но в тоже время вы довольны собой. За ваши старания вы получаете [money_joob] кредитов."
-    "When you leave work, you feel a little tired, but at the same time you are happy with yourself . For your efforts, you get [money_joob] credits."
+    "When you leave work, you feel a little tired, but at the same time you are happy with yourself. For your efforts, you get [money_joob] credits."
 
 # game/joob.rpy:264
 translate english magazine_game_over_521e3c2e:
