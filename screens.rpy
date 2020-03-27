@@ -240,23 +240,23 @@ translate english strings:
 
     # game/screens.rpy:1006
     old "Прохождение диалогов, активация интерфейса."
-    new ""
-
+    new "Passage of dialogs, activation of the interface."
+    # Under revision
     # game/screens.rpy:1009
     old "Пробел"
-    new ""
+    new "Blank"
 
     # game/screens.rpy:1010
     old "Прохождение диалогов без возможности делать выбор."
-    new ""
+    new "Passing dialogs without the ability to make choices."
 
     # game/screens.rpy:1013
     old "Стрелки"
-    new ""
+    new "Aarrows."
 
     # game/screens.rpy:1014
     old "Навигация по интерфейсу."
-    new ""
+    new "Interface navigation."
 
     # game/screens.rpy:1017
     old "Esc"
@@ -264,23 +264,23 @@ translate english strings:
 
     # game/screens.rpy:1018
     old "Вход в игровое меню."
-    new ""
+    new "Go to main menu."
 
     # game/screens.rpy:1021
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/screens.rpy:1022
     old "Пропускает диалоги, пока зажат."
-    new ""
-
+    new "Skips dialogs while clamped."
+    # Under revision
     # game/screens.rpy:1025
     old "Tab"
     new "Tab"
 
     # game/screens.rpy:1026
     old "Включает режим пропуска."
-    new ""
+    new "Enable skip mode."
 
     # game/screens.rpy:1029
     old "Page Up"
@@ -288,7 +288,7 @@ translate english strings:
 
     # game/screens.rpy:1030
     old "Откат назад по сюжету игры."
-    new ""
+    new "Roll back to the plot of the game."
 
     # game/screens.rpy:1033
     old "Page Down"
@@ -296,67 +296,67 @@ translate english strings:
 
     # game/screens.rpy:1034
     old "Откатывает предыдущее действие вперёд."
-    new ""
+    new "Roll back to the previous action."
 
     # game/screens.rpy:1038
     old "Скрывает интерфейс пользователя."
-    new ""
+    new "Hide user interface."
 
     # game/screens.rpy:1042
     old "Делает снимок экрана."
-    new ""
+    new "Screenshot."
 
     # game/screens.rpy:1046
     old "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
-    new ""
+    new "Includes a supported {a=https://www.renpy.org/l/voicing}speech synthesizer."
 
     # game/screens.rpy:1052
     old "Левый клик"
-    new ""
+    new "Left click."
 
     # game/screens.rpy:1056
     old "Клик колёсиком"
-    new ""
+    new "Middle click."
 
     # game/screens.rpy:1060
     old "Правый клик"
-    new ""
+    new "Right click"
 
     # game/screens.rpy:1064
     old "Колёсико вверх\nКлик на сторону отката"
-    new ""
-
+    new "Wheel up\nClick on the rollback side."
+    # Under revision
     # game/screens.rpy:1068
     old "Колёсико вниз"
-    new ""
+    new "Wheel down."
 
     # game/screens.rpy:1075
     old "Правый триггер\nA/Нижняя кнопка"
-    new ""
+    new "Right trigger\nA/Buttom button."
 
     # game/screens.rpy:1079
     old "Левый Триггер\nЛевый Бампер"
-    new ""
+    new "Left Trigger\nLeft Bumper."
 
     # game/screens.rpy:1083
     old "Правый бампер"
-    new ""
+    new "Right Bumper."
 
     # game/screens.rpy:1088
     old "Крестовина, Стики"
-    new ""
-
+    new "D-Pad, Stick."
+    # Under revision
     # game/screens.rpy:1092
     old "Start, Guide"
     new "Start, Guide"
 
     # game/screens.rpy:1096
     old "Y/Верхняя кнопка"
-    new ""
+    new "Y/Upper Button."
 
     # game/screens.rpy:1099
     old "Калибровка"
-    new ""
+    new "Calibration."
 
     # game/screens.rpy:1216
     old "Пропускаю"
