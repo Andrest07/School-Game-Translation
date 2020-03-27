@@ -52,13 +52,13 @@ translate english menu_character_380e37bc:
 translate english menu_character_58885c22:
 
     # guide3 "Ух… Страшно прозвучало. Будто я сталкер какой-то, но…"
-    guide3 "I know it might sound a bit scary. I might pop out just like that as if I am following you... sometimes.. i guess."
+    guide3 "I know it might sound a bit scary. I might pop out just like that as if I am following you... Sometimes.. I guess."
 
 # game/new.rpy:931
 translate english menu_character_495fc482:
 
     # guide5 "В некоторой степени это действительно так. Я же тот самый НПС, ломающий четвертую стену!"
-    guide5 "But to some extent this is true. I’m a NPC breaking the fourth wall after all( hmph! praise me )."
+    guide5 "But to some extent this is true. I’m an NPC breaking the fourth wall after all( hmph! praise me )."
 
 # game/new.rpy:932
 translate english menu_character_1028ee5e:
@@ -70,19 +70,19 @@ translate english menu_character_1028ee5e:
 translate english menu_character_bb144c92:
 
     # "Вы должны использовать минимум 2 буквы"
-    "Your must atlest enter two letters as your name."
+    "Your must at least enter two letters as your name."
 
 # game/new.rpy:939
 translate english menu_character_2736919f:
 
     # guide12 "А неплохое имя! Щепотка фантазии, горстка увлечений и… Смысла?"
-    guide12 "You have a nice name! A pinch of fantasy, a handful of hobbies and… a Sense of humour i guess..?" #PB I don't understand this line.
+    guide12 "You have a nice name! A pinch of fantasy, a handful of hobbies and… a sense of humour i guess..?" #PB I don't understand this line.
 
 # game/new.rpy:940
 translate english menu_character_810e6775:
 
     # guide1 "Ладно-ладно, я уже захожу немного не в ту степь, так что давай не терять время друг дружки. Имя у тебя уже есть, [player_name], поэтому давай разбираться в РПГ системе данной игры!"
-    guide1 "Okay, okay, I think I talk too much, so let’s not waste our time. Okay now then [player_name], so let’s figure out how the game mechanics work!"
+    guide1 "Okay, okay, I think I talk too much, so let’s not waste our time. Okay now then [player_name], let’s figure out how the game mechanics work!"
 
 # game/new.rpy:941
 translate english menu_character_8630e710:
@@ -124,7 +124,7 @@ translate english menu_character_5c97627a:
 translate english menu_character_2a9f107c:
 
     # guide1 "Так… Раз уж мы кратко разобрались с пресетами, давай ты мне расскажешь причины твоего перевода в данную школу?" nointeract
-    guide1 "So ... If we're done with the presets, why don't you tell me why have you transferred to this school?" nointeract
+    guide1 "So ... If we're done with the presets, why don't you tell me why you transferred to this school?" nointeract
 
 # game/new.rpy:950
 translate english menu_character_3f5d509a:
