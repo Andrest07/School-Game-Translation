@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2020-03-16 22:59
+--=﻿# TODO: Translation updated at 2020-03-16 22:59
 
 # game/character/meiko.rpy:145
 translate english meiko_0_b2c0ac42:
 
     # "Оглянувшись на таймер в руке, белокурая девушка довольно улыбнулась своим собеседницам, буквально-таки говоря взглядом «Мы смогли! Мы сделали это!», и удовлетворенно, с неким победоносным настроем, сказала им долгожданные слова."
-    "Looking back at the timer in her hand, the blond girl smiled at her companions, saying, 'We did it! We did it!' with only her smile, with a certain victorious spirit, told the long-awaited words."
+    "Looking back at the timer in her hand, the blonde girl smiled at her companions, saying, 'We did it! We did it!' with only her smile, with a certain victorious spirit, told the long-awaited words."
 
 # game/character/meiko.rpy:146
 translate english meiko_0_77ee70ba:
@@ -82,7 +82,7 @@ translate english meiko_0_5fd77c50:
 translate english meiko_0_e8009ee7:
 
     # meiko_n2 "Естественно! Там стоны до конца коридора были слышны!"
-    meiko_n2 "Of course! There were groans all the way down the hall!"
+    meiko_n2 "Of course! There was moans all the way down the hall!"
 
 # game/character/meiko.rpy:183
 translate english meiko_0_a9db1e18:
@@ -172,7 +172,7 @@ translate english meiko_1_8eff6484:
 translate english meiko_1_732b7daa:
 
     # "Как оказалось, ваша задумка принесла свои плоды: нужный и долгожданный вами же момент заснялся, отчего камера полетела в сумку, а ваша же тушка покинула место преступления, решив, что просмотр подобного в этом месте – не лучший вариант. "
-    "As it turned out, your plan had borne fruit: The necessary and long-awaited moment was filmed, you quickly throw the camera into your bag, and leave the scene of the crime, deciding that viewing something like this in this place - not the best option."
+    "As it turns out, your plan had borne fruit: The necessary and long-awaited moment was filmed, you quickly throw the camera into your bag, and leave the scene of the crime, deciding that viewing something like this in this place - not the best option."
 
 # game/character/meiko.rpy:236
 translate english meiko_1_e6172bd3:
@@ -274,7 +274,7 @@ translate english meiko_camera_2c2d7f46:
 translate english meiko_camera_ed371025:
 
     # meiko "Идиот..."
-    meiko "Idiot..."
+    meiko "Jerk..."
 
 # game/character/meiko.rpy:288
 translate english meiko_camera_9a7f0247:
@@ -490,8 +490,8 @@ translate english meiko_2_598e4273:
 translate english meiko_2_09ae6d62:
 
     # glgg "Больше «ты», и я начну понимать это еще лучше, но что-то я не услышал ответа на вопрос. Самолично уничтожишь клуб плавания изнутри или все же мне сделать это самому? Во втором случае, думаю, тебя еще и выпрут со школы за такие вот деяния."
-    glgg "More «you»s again, just because you repeat that a lot doesn't mean I'll understand you better, but I didn't hear the answer to the question. Are you going to destroy the swimming club from the inside or should I do it myself? In the second case, I think you're gonna get kicked out of school for doing that with your boyfriend."
-    # Under revision
+    glgg "More «you»s again, just because you repeat that a lot doesn't mean I'll understand you better, but I didn't hear the answer to the question. Are you going to destroy the swimming club from the inside or should I do it myself? In the second case, you're probably going to get kicked out of school for doing that with your boyfriend."
+
 # game/character/meiko.rpy:380
 translate english meiko_2_bc40feb1:
 
@@ -640,8 +640,8 @@ translate english meiko_body1_b1b32080:
 translate english meiko_body1_0f2fd681:
 
     # glgg "К черту пойдет скорее то видео, поэтому лучше тебе выполнять мои приказы, потому что мое терпение на исходе."
-    glgg "To hell to the video rather, so you'd better follow my orders, because my patience is running out."
-    # Under revision
+    glgg "To hell to qith that video rather, so you'd better follow my orders, because my patience is running out."
+
 # game/character/meiko.rpy:428
 translate english meiko_body1_e96318c0:
 
@@ -682,19 +682,19 @@ translate english meiko_body1_fdd89258:
 translate english meiko_body1_24ee2fde:
 
     # "Взявшись за грудь девушки, вы начали ее нежно массировать, довольствуясь мягкостью, и лишь через время та нежность и аккуратность пропала, заменив себя на грубые касания."
-    "Grasping the girl's chest, you begin to massage her gently, contenting yourself with the softness, only a short moment later however, that tenderness disappears, replaced by rough gropes."
+    "Grasping the girl's chest, you begin to massage her gently, contenting yourself with the softness, a short moment later however, that tenderness disappears, replaced by rough gropes."
 
 # game/character/meiko.rpy:445
 translate english meiko_body1_f73ac042:
 
     # "Щупая ели видные через эластичную ткань купальника соски девушки, ваши движения становились все более жесткими и настойчивыми, а от самой же жертвы домогательств начали доносится негромкие постанывания то ли от боли, то ли от приятности сего акта."
-    "Feeling the girl's nipples through the elastic fabric of her swimsuit, your gropes became roughter and tighter, and from the very victim of this harassment, soft moaning began to be heard whether from pain or from the pleasure of this act."
+    "Feeling the girl's nipples through the elastic fabric of her swimsuit, your gropes became rougher and persistent, and from the very victim of this harassment, soft moans began to be heard, whether from pain, or the pleasure of this act."
 
 # game/character/meiko.rpy:446
 translate english meiko_body1_e98953ff:
 
     # meiko "Это больно, идиот. Будь нежнее..."
-    meiko "It hurts, you idiot. Be gentle..."
+    meiko "It hurts, you jerk. Be gentle..."
 
 # game/character/meiko.rpy:447
 translate english meiko_body1_545b4c79:
@@ -730,13 +730,13 @@ translate english meiko_body1_491581fa:
 translate english meiko_body1_9c124cf8:
 
     # meiko "Иди к черту, идиот."
-    meiko "Go to hell, you idiot."
+    meiko "Go to hell, you jerk."
 
 # game/character/meiko.rpy:459
 translate english meiko_body1_dc228a0e:
 
     # "Убрав руки с груди недовольной белокурой жертвы домогательств, понявшей, что ужас для нее наконец-то окончен, вы начали наблюдать за ее достаточно странной на подобный акт реакцией."
-    "Removing your hands from the chest of a disgruntled blond victim who realized that the harassment was finally over, you begin to observe her rather strange reaction to such an act."
+    "Removing your hands from the chest of a disgruntled blonde victim who realized that the harassment was finally over, you begin to observe her rather strange reaction to such an act."
 
 # game/character/meiko.rpy:462
 translate english meiko_body1_c8ea6a6b:
@@ -772,8 +772,8 @@ translate english meiko_body1_c141fc0c:
 translate english meiko_body1_f4c73a8a:
 
     # glgg "Только не говори мне, что ты думала о том, что это будет единичный случай? Нет, милая моя, с этого момента ты моя игрушка, и я буду решать, что мне с тобой делать. Скажу – будешь трахаться со своим парнем. Не скажу – забудешь о нем на неделю. Тебе как, понятно?"
-    glgg "Don't tell me you thought it would be a one-off situation? No, my dear, from now on you're my toy, and I'll decide what I do with you. For example, I might say - fuck your boyfriend. I won't tell you to forget about him for a week. How does that sound to you"
-    # Under revision
+    glgg "Don't tell me you thought it would be a one-off situation? No, my dear, from now on you're my toy, and I'll decide what I do with you. For example, I might tell you to do something like fuck your boyfriend. I won't tell you to do something like forgetting your boyfriend for a week. How does that sound?"
+
 # game/character/meiko.rpy:478
 translate english meiko_body1_748a87ba:
 
@@ -880,7 +880,7 @@ translate english meiko_nude1_dbb4204b:
 translate english meiko_nude1_7325ea4f:
 
     # "Посмотрев на вас в очередной раз своим озлобленным взглядом, девушка потихоньку начала снимать с себя купальник, постепенно оголяя свои прелести."
-    "Looking at you again with her angry look, the girl slowly began to take off her swimsuit, gradually revealing her charms."
+    "Looking at you with an angry look, the girl slowly began to take off her swimsuit, gradually revealing her charms."
 
 # game/character/meiko.rpy:509
 translate english meiko_nude1_528aabce:
@@ -1031,7 +1031,7 @@ translate english meiko_nude1_c56a5f2b:
 
     # meiko "Ты меня заставил бегать за тобой, когда, возможно, у тебя этой видеозаписи и вовсе нет… Это шутка такая, да?"
     meiko "You made me bow to your wishes when you may not have that video at all... This is a joke, right?"
-    # Under revision
+
 # game/character/meiko.rpy:554
 translate english meiko_nude1_1c8895e2:
 
@@ -1144,7 +1144,7 @@ translate english meiko_nude_4cbbf152:
 translate english meiko_nude_f2ae094a:
 
     # "Еще раз глянув на вас, Мэйко начала снимать купальник с явной неуверенностью в своих действиях, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to belly, ending it off with the simplest exposure of her lower body."
+    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:601
 translate english meiko_nude_939b508e:
@@ -1156,13 +1156,13 @@ translate english meiko_nude_939b508e:
 translate english meiko_nude_aeaf2833:
 
     # "Вы начали осматривать ее красивое и подтянутое тело, скользя своим взглядом по груди и животику, прислушиваясь к ее тяжелому дыханию и наблюдая сокращение мышц."
-    "Enjoying the look of her beautiful and trim body, glancing down her chest and belly as you listen to her heavy breathing and watch her muscles tense."
+    "Enjoying the look of her beautiful and trim body, gliding your gaze down her chest and stomach as you listen to her heavy breathing and watch her muscles tense."
 
 # game/character/meiko.rpy:605
 translate english meiko_nude_6aaa67f3:
 
     # meiko "Знаешь, раньше я думала, что ты явный маньяк, а сейчас… Сейчас совершенно ничего не изменилось, кроме еще большей уверенности в этой теории. Думаю, что ты – реинкарнация какого-нибудь Чикатило во плоти."
-    meiko "You know, I used to think you were a clear maniac, but now... Well, nothing has changed, except for the fact that I'm even more convinced that it's true. I think you're the reincarnation of Chikatilo in the flesh."
+    meiko "You know, I used to think you were a clear psycho, but now... Well, nothing has changed, except for the fact that I'm even more convinced that it's true. I think you're the reincarnation of Chikatilo in the flesh."
 
 # game/character/meiko.rpy:606
 translate english meiko_nude_f5f02279:
@@ -1198,7 +1198,7 @@ translate english meiko_nude_fcecc3ec:
 translate english meiko_nude_f827ab41:
 
     # "Понаблюдав еще несколько минут за Мэйко, вы заметили, как она взяла свой купальник с лавочки и уже собиралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "After watching Meiko for a few more minutes, you notice her taking her swimsuit off the bench and put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
+    "After watching Meiko for a few more minutes, you notice her taking her swimsuit off the bench and starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:616
 translate english meiko_nude_3df15e3e:
@@ -1222,7 +1222,7 @@ translate english meiko_nude_748a87ba:
 translate english meiko_nude_a7643750:
 
     # "Приняв решение более не беспокоить девушку попусту, вы вышли из раздевалки, оставив ее наедине со своими мыслями"
-    "Deciding not to bother the girl for nothing, you leave the locker room leaving her alone with her thoughts."
+    "Deciding not to bother the girl with your pointless remarks, you leave the locker room leaving her alone with her thoughts."
 
 # game/character/meiko.rpy:624
 translate english meiko_nude_a2808b29_1:
@@ -1246,7 +1246,7 @@ translate english meiko_nude_4cbbf152_1:
 translate english meiko_nude_f2ae094a_1:
 
     # "Еще раз глянув на вас, Мэйко начала снимать купальник с явной неуверенностью в своих действиях, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to belly, ending it off with the simplest exposure of her lower body."
+    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:630
 translate english meiko_nude_939b508e_1:
@@ -1264,7 +1264,7 @@ translate english meiko_nude_748a87ba_1:
 translate english meiko_nude_f827ab41_1:
 
     # "Понаблюдав еще несколько минут за Мэйко, вы заметили, как она взяла свой купальник с лавочки и уже собиралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "After watching Meiko for a few more minutes, you notice her taking her swimsuit off the bench and put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
+    "After watching Meiko for a few more minutes, you notice her taking her swimsuit off the bench and starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:636
 translate english meiko_nude_3df15e3e_1:
@@ -1288,7 +1288,7 @@ translate english meiko_nude_748a87ba_2:
 translate english meiko_nude_a7643750_1:
 
     # "Приняв решение более не беспокоить девушку попусту, вы вышли из раздевалки, оставив ее наедине со своими мыслями"
-    "Deciding not to bother the girl for nothing, you leave the locker room leaving her alone with her thoughts."
+    "Deciding not to bother the girl with your pointless remarks, you leave the locker room leaving her alone with her thoughts."
 
 # game/character/meiko.rpy:655
 translate english meiko_nude_d6ce209b:
@@ -1342,7 +1342,7 @@ translate english meiko_nude_dbb4204b:
 translate english meiko_nude_f2ae094a_2:
 
     # "Еще раз глянув на вас, Мэйко начала снимать купальник с явной неуверенностью в своих действиях, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to belly, ending it off with the simplest exposure of her lower body."
+    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:668
 translate english meiko_nude_939b508e_2:
@@ -1367,7 +1367,7 @@ translate english meiko_nude_7efa139b:
 
     # meiko "Ты так ко всем девушкам пристаешь, требуя их раздеваться и делать другие непристойности?"
     meiko "Is that how you hit on all the girls, asking them to undress and do other obscenities?"
-    # Under revision
+
 # game/character/meiko.rpy:674
 translate english meiko_nude_cbfea89d:
 
@@ -1432,14 +1432,14 @@ translate english meiko_nude_f2a96065:
 translate english meiko_nude_a2226ddb:
 
     # "Глянув на вас с некоторой грустью в глазах, белокурая девушка отвела свой взгляд, который был еще полон надежд."
-    "Looking at you with some sadness in her eyes, the blond girl averted her gaze, which you notice were still full of hope."
+    "Looking at you with some sadness in her eyes, the blonde girl averted her gaze, which you notice were still full of hope."
 
 # game/character/meiko.rpy:699
 translate english meiko_nude_cc6b6318:
 
     # glgg "В конце концов я получу с тебя некую выгоду, милая, а ты останешься с носом и с грязной тайной, которая будет преследовать тебя всю твою жизнь."
-    glgg "In the end I'm getting benefits from you honey, and you'll be left with a nose and a dirty secret that'll haunt you for the rest of your life."
-    # Under revision
+    glgg "In the end I'm getting benefits from you honey, and you'll be left with nothing good and a dirty secret that'll haunt you for the rest of your life."
+
 # game/character/meiko.rpy:701
 translate english meiko_nude_60e53701:
 
@@ -1492,7 +1492,7 @@ translate english meiko_nude_538bf405:
 translate english meiko_nude_37d99d16:
 
     # "Недолго потирая свою красную щечку, взгляд Мэйко, понявшей, что сделать с вами ничего нельзя, с гневного сменился на жалобный и щенячий, буквально-таки просящий, чтобы вы прекратили это избиение."
-    "Rubbing her red cheek for a little while, Mieko's gaze, who realized that nothing could be done to you, changed from anger to sad and puppy-like, asking you to stop the beating with her eyes."
+    "Rubbing her red cheek for a little while, Meiko's gaze, who realized that nothing could be done to you, changed from anger to sad and puppy-like, asking you to stop the beating with her eyes."
 
 # game/character/meiko.rpy:719
 translate english meiko_nude_ad83b61e:
@@ -1510,13 +1510,13 @@ translate english meiko_nude_3707aadf:
 translate english meiko_nude_a911bf0f:
 
     # "Виновато кивнув вам, белокурая девушка взяла свой купальник со скамейки, медленно начав его надеваться перед вами."
-    "Guiltily nodding to you, the blond girl took her swimsuit off the bench, slowly putting it on in front of you."
+    "Guiltily nodding to you, the blonde girl took her swimsuit off the bench, slowly putting it on in front of you."
 
 # game/character/meiko.rpy:723
 translate english meiko_nude_d03dad22:
 
     # "Решив более не беспокоить девушку попусту, вы вышли из раздевалки, оставив ее наедине со своими мыслями"
-    "Having decided not to bother the girl for nothing, you left the locker room, leaving her alone with her thoughts."
+    "Deciding not to bother the girl with your pointless remarks, you left the locker room, leaving her alone with her thoughts."
 
 # game/character/meiko.rpy:728
 translate english meiko_nude_ad501903:
@@ -1558,7 +1558,7 @@ translate english meiko_nude_hide1_0c2cbb61:
 translate english meiko_nude_hide1_b2823fb5:
 
     # meiko "Какой же ты придурок…"
-    meiko "What a jerk you are..."
+    meiko "You're a jerk..."
 
 # game/character/meiko.rpy:739
 translate english meiko_nude_hide1_3e2309a5:
@@ -1582,7 +1582,7 @@ translate english meiko_nude_hide1_4d353ba9:
 translate english meiko_nude_hide1_d9f1d6ed:
 
     # meiko "Ты меня уже видишь голой больше, чем [name_meiko]… Тебе не надоело еще?"
-    meiko "You already see me naked more than [name_meiko]... Aren't you bored yet?"
+    meiko "You've already seen me naked more than [name_meiko]... Aren't you bored yet?"
 
 # game/character/meiko.rpy:748
 translate english meiko_nude_hide1_b344b37a:
@@ -1594,13 +1594,13 @@ translate english meiko_nude_hide1_b344b37a:
 translate english meiko_nude_hide1_67f2ddf1:
 
     # meiko "Ладно… Подожди минуту."
-    meiko "Okay... Wait a minute."
+    meiko "Okay... Give me a minute."
 
 # game/character/meiko.rpy:752
 translate english meiko_nude_hide1_8ade1b87:
 
     # "Еще раз глянув на вас, Мэйко начала снимать свой купальник с некоторой неуверенностью в своих действиях, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you again, Meiko began to take off her swimsuit with some uncertainty about her actions, gradually giving you the opportunity to observe each segment of the previously hidden parts of the body, from the chest and tummy to the simplest denudation of its lower part."
+    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:753
 translate english meiko_nude_hide1_c40632bc:
@@ -1618,31 +1618,31 @@ translate english meiko_nude_hide1_10d75ef9:
 translate english meiko_nude_hide1_ae5fd22c:
 
     # "Не обращая внимания на дальнейший монолог Мэйко, вы начали осматривать ее красивое и подтянутое тело, скользя своим взглядом по груди и животику, прислушиваясь к ее тяжелому дыханию и наблюдая сокращение мышц, ставшее куда более частым явлением из-за волнения. "
-    "Paying no attention to Meiko's further monologue, you began to examine her beautiful and trim body, gliding your gaze over her chest and tummy, listening to her heavy breathing and watching her muscles contract, which became much more frequent due to excitement."
+    "Paying no further attention to Meiko's remark, you enjoy the look of her beautiful and trim body, gliding your gaze her chest and stomach as you listen to her heavy breathing and watch her muscles tense, which is becoming more and more frequent from excitement."
 
 # game/character/meiko.rpy:759
 translate english meiko_nude_hide1_19d52674:
 
     # meiko "Не… Не пялься на меня так… Это... Пугает..."
-    meiko "Don't... Don't stare at me so... It's... It's frightening..."
+    meiko "Don't... Don't stare at me like that... It's... It's scary..."
 
 # game/character/meiko.rpy:761
 translate english meiko_nude_hide1_16860733:
 
     # "Проигнорировав ее ели слышимое замечание, вы продолжили наблюдать за телом уже явно сильно смущенной белокурой девушки, которая начала куда чаще менять опорную ногу, видно, от того же злосчастного волнения."
-    "After ignoring her, you continued to observe the body of an obviously embarrassed blonde girl, who began to change her support leg much more often, you can see, from the same unfortunate excitement."
+    "Ignoring her remark, you continue to observe the body of the embarrassed blonde girl who was constantly shifting her weight from one leg to another, apparently as a result of the same unfortunate excitement."
 
 # game/character/meiko.rpy:763
 translate english meiko_nude_hide1_d16bee0a:
 
     # "Понаблюдав еще несколько минут за сильно смущенной Мэйко, которая то и дело пялилась в пол, вы заметили, как она взяла свой купальник с лавочки и уже собиралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "As you watched for a few more minutes the very confused Mako, who kept staring at the floor, you noticed her taking her swimsuit from the shop and was about to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
+    "After looking at the very embarrassed Meiko for a few more minutes, who was constantly staring at the floor, you notice her taking her swimsuit off the bench before starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:765
 translate english meiko_nude_hide1_393510fb:
 
     # meiko "Идиот!"
-    meiko "Idiot!"
+    meiko "Jerk!"
 
 # game/character/meiko.rpy:766
 translate english meiko_nude_hide1_3e2309a5_1:
@@ -1666,13 +1666,13 @@ translate english meiko_nude_hide1_4d353ba9_1:
 translate english meiko_nude_hide1_d834fa95:
 
     # meiko "Эээ... Ладно… Подожди минуту."
-    meiko "Uh... Okay... Wait a minute."
+    meiko "Uh... Okay... Give me a minute."
 
 # game/character/meiko.rpy:775
 translate english meiko_nude_hide1_5abb77a9:
 
     # "Еще раз глянув на вас, Мэйко начала снимать свой купальник с куда меньшей неуверенностью в своих действиях, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you again, Meiko began to take off her swimsuit with much less uncertainty about her actions, gradually giving you the opportunity to observe each segment of the previously hidden parts of the body, from the chest and tummy to the simplest denudation of its lower part."
+    "Looking at you, Meiko began to take her swimsuit off with an obvious uncertainty in her movements, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:776
 translate english meiko_nude_hide1_c40632bc_1:
@@ -1690,7 +1690,7 @@ translate english meiko_nude_hide1_10d75ef9_1:
 translate english meiko_nude_hide1_0fb302b9:
 
     # "Не обращая внимания на дальнейший монолог Мэйко, вы начали осматривать ее красивое и подтянутое тело, скользя своим взглядом по груди и животику, прислушиваясь к ее тяжелому дыханию и наблюдая постоянное сокращение мышц. "
-    "Paying no attention to Meiko further monologue, you began to examine her beautiful and trim body, gliding your gaze over her chest and tummy, listening to her heavy breathing and watching her muscles constantly contract. "
+    "Paying no further attention to Meiko's remark, you enjoy the look of her beautiful and trim body, gliding your gaze down her chest and stomach as you listen to her heavy breathing and watch her muscles tense."
 
 # game/character/meiko.rpy:782
 translate english meiko_nude_hide1_8bfa07b3:
@@ -1702,19 +1702,19 @@ translate english meiko_nude_hide1_8bfa07b3:
 translate english meiko_nude_hide1_2be98d4d:
 
     # "Проигнорировав ее ели слышимое замечание, вы продолжили наблюдать за телом уже смущенной белокурой девушки, что стала куда чаще менять свою опорную ногу, видно, от того же злосчастного волнения."
-    "After ignoring her, you continued to observe the body of an already embarrassed blonde girl, which began to change her support leg much more often, you can see, from the same unfortunate excitement."
+    "Ignoring her remark, you continue to observe the body of the embarrassed blonde girl who was constantly shifting her weight from one leg to another, apparently as a result of the same unfortunate excitement."
 
 # game/character/meiko.rpy:786
 translate english meiko_nude_hide1_5bf00172:
 
     # "Понаблюдав еще несколько минут за Мэйко, что то и дело пялилась то в пол, то на вас, вы заметили, как она взяла свой купальник с лавочки и уже собралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "After watching Meiko for a few more minutes, staring at the floor and at you, you noticed her taking her swimsuit off the shop and going to put it on. When she decided she'd had enough for today, you heard a heavy breath."
+    "After watching Meiko for a few more minutes as she stares at both the floor and you, you notice her taking her swimsuit off the bench before starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:788
 translate english meiko_nude_hide1_8112792b:
 
     # meiko "Маньяк..."
-    meiko "Maniac..."
+    meiko "Psycho..."
 
 # game/character/meiko.rpy:792
 translate english meiko_nude_hide1_8e6582cd:
@@ -1732,13 +1732,13 @@ translate english meiko_nude_hide1_4d353ba9_2:
 translate english meiko_nude_hide1_e71e357b:
 
     # meiko "Хорошо... Подожди минуту."
-    meiko "Okay... Wait a minute."
+    meiko "Okay... Give me a minute."
 
 # game/character/meiko.rpy:797
 translate english meiko_nude_hide1_53473b5d:
 
     # "Еще раз глянув на вас, Мэйко начала уверенно снимать свой купальник, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you again, Meiko began to confidently take off her swimsuit, gradually giving you the opportunity to observe each segment of the previously hidden parts of the body, from the chest and tummy to the simplest denudation of its lower part."
+    "Looking at you , Meiko began to confidently take off her swimsuit, gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:798
 translate english meiko_nude_hide1_939b508e:
@@ -1750,67 +1750,67 @@ translate english meiko_nude_hide1_939b508e:
 translate english meiko_nude_hide1_0e62ba96:
 
     # meiko "Опять будешь смотреть на меня, как реинкарнация Чикатило?.."
-    meiko "Will you look at me like the reincarnation of Chikatilo again?"
+    meiko "Are you going to look at me like the reincarnation of Chikatilo again..?"
 
 # game/character/meiko.rpy:802
 translate english meiko_nude_hide1_a1f92e75:
 
     # "Не обращая внимания на недолгий монолог Мэйко, вы начали осматривать ее красивое и подтянутое тело, скользя своим взглядом по груди и животику, прислушиваясь к ее тяжелому дыханию и наблюдая постоянное сокращение мышц. "
-    "Paying no attention to Meiko's short monologue, you began to examine her beautiful and trim body, gliding your gaze over her chest and tummy, listening to her heavy breathing and watching her muscles contract constantly."
+    "Paying no attention to Meiko's short remark, you began to examine her beautiful and trim body, gliding your gaze down her chest and stomach as you listen to her heavy breathing and watch her muscles tense."
 
 # game/character/meiko.rpy:804
 translate english meiko_nude_hide1_9781f5fc:
 
     # meiko "Любишь же ты, похоже, пялиться на голых девушек!"
-    meiko "You seem to like staring at naked girls!"
+    meiko "You love, it seems, to stare at naked girls!"
 
 # game/character/meiko.rpy:806
 translate english meiko_nude_hide1_98e17453:
 
     # "Проигнорировав ее ели слышимое замечание, вы продолжили наблюдать за телом белокурой девушки, что стала куда чаще менять свою опорную ногу, видно, от того же злосчастного волнения."
-    "After ignoring her, you continued to observe the body of the blonde girl, which was much more often to change her support leg, apparently from the same unfortunate excitement."
+    "Ignoring her remark, you continue to observe the body of the embarrassed blonde girl who was constantly shifting her weight from one leg to another, apparently as a result of the same unfortunate excitement."
 
 # game/character/meiko.rpy:808
 translate english meiko_nude_hide1_5bf00172_1:
 
     # "Понаблюдав еще несколько минут за Мэйко, что то и дело пялилась то в пол, то на вас, вы заметили, как она взяла свой купальник с лавочки и уже собралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "After watching Meiko for a few more minutes, staring at the floor and at you, you noticed her taking her swimsuit off the shop and going to put it on. When she decided she'd had enough for today, you heard a heavy breath."
+    "After watching Meiko for a few more minutes as she stares at both the floor and you, you notice her taking her swimsuit off the bench before starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:810
 translate english meiko_nude_hide1_97293dec:
 
     # meiko "Точно извращенец… Знаешь, думаю, я поняла, почему у тебя нет девушки. Ты же смотришь на них, как на своих жертв!"
-    meiko "You know, I think I figured out why you don't have a girlfriend. You look at them like you're your victims!"
+    meiko "Pervert... You know, I think I figured out why you don't have a girlfriend. You look at them like you're your victims!"
 
 # game/character/meiko.rpy:811
 translate english meiko_nude_hide1_68ace6be:
 
     # glgg "С чего ты сделала такие выводы-то?"
-    glgg "Why did you come to such conclusions?"
+    glgg "Why are you drawing such conclusions?"
 
 # game/character/meiko.rpy:813
 translate english meiko_nude_hide1_5cc3b98c:
 
     # meiko "Это же очевидно, учитывая, как ты ко мне отно!.."
-    meiko "It's obvious, considering how you feel about me..."
+    meiko "It's obvious considering how you look at me..!"
 
 # game/character/meiko.rpy:814
 translate english meiko_nude_hide1_b19c6b1c:
 
     # glgg "Я так отношусь только к глупым животным, которые сначала трахаются, а после думают."
-    glgg "I only refer to stupid animals that fuck first and then think."
+    glgg "I only look at stupid animals who fuck first and then think that way."
 
 # game/character/meiko.rpy:816
 translate english meiko_nude_hide1_f7c08bb8:
 
     # meiko "Ч... Чего?"
-    meiko "Wha... What?.."
+    meiko "W... What?"
 
 # game/character/meiko.rpy:818
 translate english meiko_nude_hide1_a7643750:
 
     # "Приняв решение более не беспокоить девушку попусту, вы вышли из раздевалки, оставив ее наедине со своими мыслями"
-    "Deciding not to bother the girl for nothing, you leave the locker room leaving her alone with her thoughts."
+    "Deciding not to bother the girl with your pointless remarks, you leave the locker room leaving her alone with her thoughts."
 
 # game/character/meiko.rpy:826
 translate english meiko_nude_hide1_a2808b29:
@@ -1822,19 +1822,19 @@ translate english meiko_nude_hide1_a2808b29:
 translate english meiko_nude_hide1_8329a44a:
 
     # glgg "Думаю, ты даже уже понимаешь, что именно."
-    glgg "I think you even know what it is by now"
+    glgg "I think you even know what it is by now."
 
 # game/character/meiko.rpy:829
 translate english meiko_nude_hide1_f72c0142:
 
     # meiko "Опять какие-нибудь пошлости?"
-    meiko "More vulgarities?"
+    meiko "More depravities?"
 
 # game/character/meiko.rpy:830
 translate english meiko_nude_hide1_e15d9991:
 
     # glgg "Верно. Сейчас я хочу, чтобы ты разделась."
-    glgg "That's right. Now I want you to get undressed."
+    glgg "Exactly. Now, I want you to get undressed."
 
 # game/character/meiko.rpy:832
 translate english meiko_nude_hide1_fb0f643e:
@@ -1846,7 +1846,7 @@ translate english meiko_nude_hide1_fb0f643e:
 translate english meiko_nude_hide1_599cc6b8:
 
     # "Посмотрев на вас в очередной раз, Мэйко без особого стеснения в действиях начала снимать свой купальник, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you again, Maeko began to take off her swimsuit without much shyness in action, gradually giving you the opportunity to observe each segment of the previously hidden parts of the body, from the chest and tummy to the simplest denudation of its lower part."
+    "Looking at you, Maeko began to take off her swimsuit without much embarrassment,  gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:835
 translate english meiko_nude_hide1_939b508e_1:
@@ -1858,13 +1858,13 @@ translate english meiko_nude_hide1_939b508e_1:
 translate english meiko_nude_hide1_a04bd9e8:
 
     # meiko "Надеюсь, что мне долго не придется стоять так. В прошлый раз я чуть не простыла…"
-    meiko "I hope I don't have to stand like this for long. Last time I almost got a cold..."
+    meiko "I hope I don't have to stand like this for a long time, last time I almost caught a cold..."
 
 # game/character/meiko.rpy:838
 translate english meiko_nude_hide1_b1c9b829:
 
     # glgg "Что-то в этот раз ты не больно-то и стесняешься. Тебе наконец-то начало нравиться это все?"
-    glgg "Something this time you're not shy are you finally starting to like it all?"
+    glgg "You're not that shy this time, are you finally starting to like it?"
 
 # game/character/meiko.rpy:840
 translate english meiko_nude_hide1_ff3422c2:
@@ -1876,7 +1876,7 @@ translate english meiko_nude_hide1_ff3422c2:
 translate english meiko_nude_hide1_aee6c49e:
 
     # meiko "Ты столько раз видел меня голой, что мне стало как-то все равно на подобные акты."
-    meiko "You've seen me naked so many times, I somehow didn't care about acts like that."
+    meiko "You've seen me naked so many times that I don't really care anymore."
 
 # game/character/meiko.rpy:844
 translate english meiko_nude_hide1_fb85595a:
@@ -1888,31 +1888,31 @@ translate english meiko_nude_hide1_fb85595a:
 translate english meiko_nude_hide1_bee8520e:
 
     # glgg "А ведь совершенно недавно ты лишь от одного взгляда могла впасть в осадок…"
-    glgg "And recently, you could have fallen into sediment at the sight of a single glance..."
+    glgg "And yet just recently, you would get sweaty from a single glance..."
 
 # game/character/meiko.rpy:847
 translate english meiko_nude_hide1_7ad374f4:
 
     # meiko "Оно и ясно. Знаешь, это сильно смущает, когда неизвестный парень пялится на тебя, как маньяк… Возникало ощущение, что ты на меня можешь наброситься."
-    meiko "It's clear. You know, it's really embarrassing to have an unknown guy staring at you like a maniac..."
+    meiko "Of course. You know, it's really embarrassing having a stranger stare at you like a psychopath..."
 
 # game/character/meiko.rpy:848
 translate english meiko_nude_hide1_fbf1fcb6:
 
     # glgg "Вон оно как… Не волнуйся, скоро оно так и будет, и в этом случае ты ничего сделать не сможешь, как минимум, из-за наличия видеозаписи."
-    glgg "It's like... Don't worry, it's gonna be like this soon, in which case you can't do anything, at least because of the video."
+    glgg "There it is... Don't worry, it's going to happen very soon, and you won't be able to do anything, at least because of the video."
 
 # game/character/meiko.rpy:850
 translate english meiko_nude_hide1_24cef517:
 
     # meiko "Лучше бы ты сказал, что не будешь меня заставлять делать настолько пошлые вещи."
-    meiko "I wish you'd said you wouldn't make me do such dirty things."
+    meiko "I wish you'd say you wouldn't make me do such dirty things."
 
 # game/character/meiko.rpy:851
 translate english meiko_nude_hide1_baf7c89f:
 
     # glgg "И зачем мне врать, если они произойдут в любом случае?"
-    glgg "And why would I lie if they happened anyway?"
+    glgg "And why would I lie if it's going to happen anyway?"
 
 # game/character/meiko.rpy:853
 translate english meiko_nude_hide1_9ad40a90:
@@ -1930,37 +1930,37 @@ translate english meiko_nude_hide1_146b087a:
 translate english meiko_nude_hide1_3c35226c:
 
     # meiko "Я не думаю, что ты на это способен… Хотя… Не совсем правильно сформулировала свою мысль."
-    meiko "I don't think you're capable of this... Although... I didn't quite formulate my idea correctly."
+    meiko "I don't think you're willing to do that... Although... I haven't quite formulated my idea completely."
 
 # game/character/meiko.rpy:858
 translate english meiko_nude_hide1_c7749188:
 
     # meiko "Я не думаю, что ты будешь делать подобное, ведь в этом случае у тебя пропадет возможность манипулировать мной, и тебе станет… Скучно?"
-    meiko "I don't think you're gonna do that, because if you do, you'll lose your ability to manipulate me and you'll get... Bored?"
+    meiko "I don't think you're going do that because if you do, you'll lose your ability to manipulate me and you'll get... Bored?"
 
 # game/character/meiko.rpy:859
 translate english meiko_nude_hide1_30b7b229:
 
     # glgg "Кажется, что вместе с одеждой, ты сбросила и всю логику…"
-    glgg "It seems that with the clothes, you've dropped all the logic..."
+    glgg "It seems that along with your clothes, you've dropped all of your logic as well..."
 
 # game/character/meiko.rpy:861
 translate english meiko_nude_hide1_21da6924:
 
     # meiko "Возможно, тебе и кажется это смешным, но я думаю именно так."
-    meiko "You may think it's funny, but I think it is."
+    meiko "It might sound ridiculous to you but I think so."
 
 # game/character/meiko.rpy:862
 translate english meiko_nude_hide1_5de17fff:
 
     # glgg "Решимость это, конечно, хорошо, но не стоит быть такой недальновидной. В конце концов в прошлый раз тебя такое отношение к вещам привело к результату, в котором ты стоишь совершенно голой перед неизвестным тебе парнем."
-    glgg "Determination is good, of course, but don't be so short-sighted. In the end, last time you were so naked in front of a guy you didn't know."
+    glgg "Determination is good, of course, but don't be so short-sighted. After all, the last time you had this type of attitude it led you to stripping completely naked in front of a stranger."
 
 # game/character/meiko.rpy:864
 translate english meiko_nude_hide1_578f6683:
 
     # meiko "Думаю, что время покажет, кто был прав."
-    meiko "I think time will show you who was right."
+    meiko "I think time will show you who's right."
 
 # game/character/meiko.rpy:865
 translate english meiko_nude_hide1_3e2309a5_2:
@@ -1972,49 +1972,49 @@ translate english meiko_nude_hide1_3e2309a5_2:
 translate english meiko_nude_hide1_f6c03620:
 
     # "Понаблюдав еще несколько минут за белокурой девушкой, которая то и дело пялилась то в пол, то на вас, вы заметили, как она взяла свой купальник с лавочки и уже собиралась его надевать."
-    "After watching a blonde girl stare at the floor or you for a few more minutes, you noticed her taking her swimsuit and going to put it on."
+    "After watching the blonde girl stare at both the floor and you for a few more minutes, you notice her taking her swimsuit off the bench before starting to put it on."
 
 # game/character/meiko.rpy:868
 translate english meiko_nude_hide1_5e0dc381_1:
 
     # "Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "When she decided she'd had enough for today, you took a heavy breath."
+    "Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:870
 translate english meiko_nude_hide1_e5f4056e:
 
     # meiko "Еще увидимся, маньяк-извращенец!"
-    meiko "See you later, you pervert maniac!"
+    meiko "See you later, you pervert psycho!"
 
 # game/character/meiko.rpy:871
 translate english meiko_nude_hide1_23232126:
 
     # glgg "А ты уже так жаждешь следующей встречи, раз это упомянула?"
-    glgg "Are you so eager to see me next time you mention it?"
+    glgg "Are you eager for the next meeting having said that?"
 
 # game/character/meiko.rpy:873
 translate english meiko_nude_hide1_31828a2b:
 
     # meiko "Нет, я не настолько дура, чтобы хотеть встречи с неизвестным извращенным парнем!"
-    meiko "No, I'm not stupid enough to want to meet an unknown perverted guy!"
+    meiko "No, I'm not so stupid to want to meet an unknown perverted guy!"
 
 # game/character/meiko.rpy:875
 translate english meiko_nude_hide1_d9d38b49:
 
     # meiko "Да и не нужно быть провидцем для понимания того, что ты от меня еще не скоро отстанешь с пошлостями."
-    meiko "You don't have to be a visionary to understand that you're not gonna get off my back anytime soon with only vulgarity."
+    meiko "You don't have to be a prophet to know that you're not gonna get off my back anytime soon with these depravities."
 
 # game/character/meiko.rpy:876
 translate english meiko_nude_hide1_2e589f12:
 
     # glgg "Все же хоть немного логики в тебе есть..."
-    glgg "Still, there's some logic in you..."
+    glgg "At least you still have some logic..."
 
 # game/character/meiko.rpy:877
 translate english meiko_nude_hide1_e3284865:
 
     # "Приняв решение более не беспокоить девушку попусту своими бессмысленными замечаниями, вы вышли из раздевалки, оставив ее наедине со своими мыслями."
-    "Having decided not to bother the girl for nothing with your pointless remarks, you left the locker room alone with your thoughts. Okay..."
+    "Deciding not to bother the girl with your pointless remarks, you left the locker room alone with your thoughts."
 
 # game/character/meiko.rpy:882
 translate english meiko_nude_hide1_a2808b29_1:
@@ -2038,7 +2038,7 @@ translate english meiko_nude_hide1_df34c5c6:
 translate english meiko_nude_hide1_b38aaefe:
 
     # "Посмотрев на вас в очередной раз, Мэйко без особого стеснения начала снимать свой купальник, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you again, Meiko began to take off her swimsuit without much embarrassment, gradually giving you the opportunity to observe each section of the previously hidden body parts, from the chest and tummy to the simplest denudation of its lower part."
+    "Looking at you, Meiko began to take off her swimsuit without much embarrassment,  gradually giving you the opportunity to see every part of her previously hidden body, starting from her chest down to her stomach, ending it off with the simple exposure of her lower body."
 
 # game/character/meiko.rpy:888
 translate english meiko_nude_hide1_939b508e_2:
@@ -2050,19 +2050,19 @@ translate english meiko_nude_hide1_939b508e_2:
 translate english meiko_nude_hide1_b995640e:
 
     # meiko "Я все."
-    meiko "I'm everything."
+    meiko "Here's everything."
 
 # game/character/meiko.rpy:891
 translate english meiko_nude_hide1_1667c216:
 
     # glgg "А я не вижу. Спасибо, что сообщила."
-    glgg "I can't see. Thank you for letting me know."
+    glgg "Ah, I didn't see that. Thank you for letting me know."
 
 # game/character/meiko.rpy:892
 translate english meiko_nude_hide1_f367f28c:
 
     # "Не обращая внимания на дальнейший явно натянутый монолог от белокурой девчушке, которая пыталась таким образом, видно, придать себе больше уверенности, вы начали осматривать ее красивое и подтянутое тело, скользя своим взглядом по груди и животику, прислушиваясь к ее тяжелому дыханию и наблюдая сокращение мышц."
-    "Paying no attention to the further obviously strained monologue from a blonde girl who was trying to give herself more confidence in this way, you began to examine her beautiful and taut body, glancing with your eyes on her chest and tummy, listening to her heavy breathing and watching her muscles contract."
+    "Paying no attention to any of the remarks the blonde girl was trying to say to gain some semblance of confidence, you enjoy the look of her beautiful and trim body, gliding your gaze down her chest and stomach as you listen to her heavy breathing and watch her muscles tense."
 
 # game/character/meiko.rpy:894
 translate english meiko_nude_hide1_450a100c:
@@ -2074,13 +2074,13 @@ translate english meiko_nude_hide1_450a100c:
 translate english meiko_nude_hide1_88bcd53f:
 
     # "Понаблюдав еще несколько минут за белокурой девушкой, которая то и дело пыталась встретиться с вами взглядом, вы заметили, как она взяла свой купальник с лавочки и уже собиралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "After watching the blond girl, who tried to meet you by sight for a few more minutes, you noticed how she took her swimsuit from the shop and was about to put it on. When she decided she'd had enough for today, you took a heavy breath."
+    "After observing the blonde girl's body for a few more minutes as she tries to meet your gaze, you notice her taking her swimsuit off the bench and starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:898
 translate english meiko_nude_hide1_e5f4056e_1:
 
     # meiko "Еще увидимся, маньяк-извращенец!"
-    meiko "See you later, you pervert maniac!"
+    meiko "See you later, you pervert psycho!"
 
 # game/character/meiko.rpy:901
 translate english meiko_nude_hide1_a2808b29_2:
@@ -2104,7 +2104,7 @@ translate english meiko_nude_hide1_df34c5c6_1:
 translate english meiko_nude_hide1_b38aaefe_1:
 
     # "Посмотрев на вас в очередной раз, Мэйко без особого стеснения начала снимать свой купальник, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you again, Mako began to take off her swimsuit without much embarrassment, gradually giving you the opportunity to observe each section of the previously hidden body parts, from the chest and tummy to the simplest denudation of its lower part."
+    "Looking at you, Meiko began to take off her swimsuit without much embarrassment, gradually giving you the opportunity to observe each section of the previously hidden body parts, from the chest and stomach down to the simple exposure of her lower body."
 
 # game/character/meiko.rpy:907
 translate english meiko_nude_hide1_939b508e_3:
@@ -2116,7 +2116,7 @@ translate english meiko_nude_hide1_939b508e_3:
 translate english meiko_nude_hide1_b995640e_1:
 
     # meiko "Я все."
-    meiko "I'm everything."
+    meiko "Here's everything."
 
 # game/character/meiko.rpy:910
 translate english meiko_nude_hide1_1667c216_1:
@@ -2128,25 +2128,25 @@ translate english meiko_nude_hide1_1667c216_1:
 translate english meiko_nude_hide1_f303bc27:
 
     # "Не обращая внимания на ее дальнейший явно натянутый монолог, которым она пыталась таким образом, видно, придать себе больше уверенности, вы начали осматривать ее красивое и подтянутое тело, скользя своим взглядом по груди и животику, прислушиваясь к ее тяжелому дыханию и наблюдая сокращение мышц."
-    "Paying no attention to her further obviously strained monologue, which she tried to give herself more confidence, you began to examine her beautiful and trim body, sliding your gaze on her chest and tummy, listening to her heavy breathing and watching her muscles contract."
+    "Paying no attention to any of the remarks the blonde girl was trying to say to gain some semblance of confidence, you enjoy the look of her beautiful and trim body, gliding your gaze down her chest and stomach as you listen to her heavy breathing and watch her muscles tense."
 
 # game/character/meiko.rpy:913
 translate english meiko_nude_hide1_ff3bbe15:
 
     # meiko "Я настолько красивая, что ты не можешь даже взгляд отвести? Хе-хе, понимаю. "
-    meiko "I'm so beautiful you can't even take your eyes off me? He-he, I see."
+    meiko "I'm so beautiful that you can't even take your eyes off me? He-he, I see."
 
 # game/character/meiko.rpy:915
 translate english meiko_nude_hide1_88bcd53f_1:
 
     # "Понаблюдав еще несколько минут за белокурой девушкой, которая то и дело пыталась встретиться с вами взглядом, вы заметили, как она взяла свой купальник с лавочки и уже собиралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "After watching the blond girl, who tried to meet you by sight for a few more minutes, you noticed how she took her swimsuit from the shop and was about to put it on. When she decided she'd had enough for today, you took a heavy breath."
+    "After observing the blonde girl's body for a few more minutes as she tries to meet your gaze, you notice her taking her swimsuit off the bench and starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:917
 translate english meiko_nude_hide1_b81fa983:
 
     # meiko "После этих твоих раздеваний и стояний на одном месте у меня ноги замерзли… Нельзя было пялиться чуть меньше?"
-    meiko "After your undressing and standing in one place, my legs froze... Couldn't you stare a little less?"
+    meiko "After undressing and standing in place, my feet are cold... Couldn't you stare a little less?"
 
 # game/character/meiko.rpy:920
 translate english meiko_nude_hide1_a2808b29_3:
@@ -2170,7 +2170,7 @@ translate english meiko_nude_hide1_df34c5c6_2:
 translate english meiko_nude_hide1_b38aaefe_2:
 
     # "Посмотрев на вас в очередной раз, Мэйко без особого стеснения начала снимать свой купальник, постепенно давая вам возможность наблюдать за каждым отрезком ранее скрытых частей тела, начиная с груди и животика и заканчивая простейшим оголением ее нижней части."
-    "Looking at you again, Mako began to take off her swimsuit without much embarrassment, gradually giving you the opportunity to observe each section of the previously hidden body parts, from the chest and tummy to the simplest denudation of its lower part."
+    "Looking at you, Meiko began to take off her swimsuit without much embarrassment, gradually giving you the opportunity to observe each section of the previously hidden body parts, from her chest and stomach down to the simple exposure of her lower body."
 
 # game/character/meiko.rpy:926
 translate english meiko_nude_hide1_939b508e_4:
@@ -2182,7 +2182,7 @@ translate english meiko_nude_hide1_939b508e_4:
 translate english meiko_nude_hide1_b995640e_2:
 
     # meiko "Я все."
-    meiko "I'm everything."
+    meiko "Here's everything."
 
 # game/character/meiko.rpy:929
 translate english meiko_nude_hide1_1667c216_2:
@@ -2194,31 +2194,31 @@ translate english meiko_nude_hide1_1667c216_2:
 translate english meiko_nude_hide1_f367f28c_1:
 
     # "Не обращая внимания на дальнейший явно натянутый монолог от белокурой девчушке, которая пыталась таким образом, видно, придать себе больше уверенности, вы начали осматривать ее красивое и подтянутое тело, скользя своим взглядом по груди и животику, прислушиваясь к ее тяжелому дыханию и наблюдая сокращение мышц."
-    "Paying no attention to the further obviously strained monologue from a blonde girl who was trying to give herself more confidence in this way, you began to examine her beautiful and taut body, glancing with your eyes on her chest and tummy, listening to her heavy breathing and watching her muscles contract."
+    "Paying no attention to any of the remarks the blonde girl was trying to say to gain some semblance of confidence, you enjoy the look of her beautiful and trim body, gliding your gaze down her chest and stomach as you listen to her heavy breathing and watch her muscles tense."
 
 # game/character/meiko.rpy:931
 translate english meiko_nude_hide1_183e9cac:
 
     # "Смотря вам в глаза, Мэйко то и дело пыталась как-то привлечь ваше внимание, чтобы хоть о чем-то велся диалог, но вы же продолжали молча безукоризненно пялиться на ее тело. "
-    "Looking you in the eye, Meiko has tried to get your attention in some way to make a dialogue about something, but you kept silently staring at her body perfectly."
+    "Looking at you in the eye, Meiko has tried to get your attention in some way to start a dialogue about something, but you kept perfectly silent staring at her body."
 
 # game/character/meiko.rpy:933
 translate english meiko_nude_hide1_d286fd62:
 
     # meiko "Эй? Маньяк, ты тут? Хватит меня уже игнорировать!"
-    meiko "Hello? Maniac, are you there? Stop ignoring me already!"
+    meiko "Hello? Psycho, are you there? Stop ignoring me already!"
 
 # game/character/meiko.rpy:934
 translate english meiko_nude_hide1_0873ae8c:
 
     # "Будучи еще в недолгих попытках вас разговорить, Мэйко вскоре бросила все это дело, поняв, что оно попросту бесполезно."
-    "While still trying to talk to you for a while, Meiko soon gave up the whole thing, realizing it was just useless."
+    "While still trying to talk to you for a while, Meiko soon abandoned the whole thing, realizing that it was simply useless."
 
 # game/character/meiko.rpy:936
 translate english meiko_nude_hide1_88bcd53f_2:
 
     # "Понаблюдав еще несколько минут за белокурой девушкой, которая то и дело пыталась встретиться с вами взглядом, вы заметили, как она взяла свой купальник с лавочки и уже собиралась его надевать. Решив, что с нее хватит на сегодня, от вас послышался тяжелый вздох."
-    "After watching the blond girl, who tried to meet you by sight for a few more minutes, you noticed how she took her swimsuit from the shop and was about to put it on. When she decided she'd had enough for today, you took a heavy breath."
+    "After observing the blonde girl's body for a few more minutes as she tries to meet your gaze, you notice her taking her swimsuit off the bench and starting to put it on. Deciding that she'd had enough for today, you let out a heavy sigh."
 
 # game/character/meiko.rpy:938
 translate english meiko_nude_hide1_6f6939ca:
@@ -2230,37 +2230,37 @@ translate english meiko_nude_hide1_6f6939ca:
 translate english meiko_nude_hide1_e3284865_1:
 
     # "Приняв решение более не беспокоить девушку попусту своими бессмысленными замечаниями, вы вышли из раздевалки, оставив ее наедине со своими мыслями."
-    "Having decided not to bother the girl for nothing with your pointless remarks, you left the locker room alone with your thoughts."
+    "Deciding not to bother the girl with your pointless remarks with your pointless remarks, you left the locker room alone with your thoughts."
 
 # game/character/meiko.rpy:956
 translate english meiko_body_ffaa3133:
 
     # meiko "Чего… Опять? Тебе не хватило прошлого раза?"
-    meiko "What... Again? Did you miss the last time?"
+    meiko "What... Again? Was last time not enough?"
 
 # game/character/meiko.rpy:957
 translate english meiko_body_65bf6dbc:
 
     # glgg "Так и будешь мне задавать глупые вопросы, или, может, мы уже пойдем куда-нибудь, чтобы ты исполнила мое желание?"
-    glgg "Are you gonna ask me stupid questions, or maybe we'll go somewhere to make my wish come true?"
+    glgg "Are you gonna ask me stupid questions or are we going somewhere to make my wish come true?"
 
 # game/character/meiko.rpy:959
 translate english meiko_body_f401a356:
 
     # meiko "Тц… Подожди."
-    meiko "Okey... Wait."
+    meiko "Okay... Wait."
 
 # game/character/meiko.rpy:961
 translate english meiko_body_f6429fe4:
 
     # "Осуждающе посмотрев на вашу тушку еще раз, Мэйко, направившаяся в ближайшую пустую раздевалку, на ходу жестом указала одной из доверенных девушек подменить ее."
-    "Condemning to look at your body again, Meiko, heading to the nearest empty locker room, gestured one of the trusted girls to replace her."
+    "Looking at you disapprovingly, Meiko, heading to the nearest empty locker room, gestured at one of the trusted girls to replace her."
 
 # game/character/meiko.rpy:966
 translate english meiko_body_7aaf3515:
 
     # meiko "Ну и? Чего ты ждешь, придурок извращенный?"
-    meiko "Well? What are you waiting for, you twisted jerk?"
+    meiko "Well? What are you waiting for, you perverted jerk?"
 
 # game/character/meiko.rpy:969
 translate english meiko_body_3463aea6:
@@ -2278,13 +2278,13 @@ translate english meiko_body_b2c7ab27:
 translate english meiko_body_2f29951c:
 
     # meiko "А пойти к черту ты не хочешь?"
-    meiko "Don't you want to go to hell?"
+    meiko "Do you want to go to hell?"
 
 # game/character/meiko.rpy:974
 translate english meiko_body_d5017c81:
 
     # glgg "Не особо, а вот видеозапись с тобой хочет сейчас разойтись по школе, как никогда… Главное предупреди своего паренька, что его будущее скорее всего будет сломано из-за достаточно милой характеристики в его личном деле."
-    glgg "Not really, but the video with you wants to go to school now more than ever... The main thing is to warn your boy that his future is likely to be broken because of a nice enough characteristic in his personal file."
+    glgg "Not really, but the video wants to spread throughout school now more than ever... The main thing you should worry aobut is warning your boyfriend that his future is likely to be destroyed due to a nice little characteristic in his personal file."
 
 # game/character/meiko.rpy:977
 translate english meiko_body_2a0f64f2:
@@ -2296,7 +2296,7 @@ translate english meiko_body_2a0f64f2:
 translate english meiko_body_a6baa73d:
 
     # glgg "Послушай, не только его будущее будет сломано, но и твое. Скорее всего с такими характеристиками вас не возьмут на нормальную работу, учебное заведение. Ты действительно хочешь разрушить будущее своей потенциальной семьи?"
-    glgg "Look, not only will his future be broken, but yours too. Most likely, with those characteristics, you won't get a normal job, an institution. Do you really want to ruin your potential family's future?"
+    glgg "Look, not only will his future be destroyed but yours as well. With those characteristics in your personal files you most likely won't get a normal job in an institution. Do you really want to ruin your potential family's future?"
 
 # game/character/meiko.rpy:981
 translate english meiko_body_a3c1cdce:
@@ -2308,7 +2308,7 @@ translate english meiko_body_a3c1cdce:
 translate english meiko_body_05c8ebd4:
 
     # glgg "Кажется, что ты уже повторяешься… Слушай, я все помню. Может, начнешь уже нормально разговаривать со мной?"
-    glgg "You seem to be repeating yourself... Look, I remember everything. Why don't you start talking to me normally already?"
+    glgg "You seem to be repeating yourself... Look, I remember everything you've said. Why don't you start talking to me like normal already?"
 
 # game/character/meiko.rpy:983
 translate english meiko_body_748a87ba:
@@ -2320,67 +2320,67 @@ translate english meiko_body_748a87ba:
 translate english meiko_body_23195c68:
 
     # meiko "[player_name]… Вы можете наконец-то потрогать мою грудь?"
-    meiko "[player_name]... Can you finally touch my breasts?"
+    meiko "[player_name]... Can you please finally touch my breasts?"
 
 # game/character/meiko.rpy:987
 translate english meiko_body_966cbd5b:
 
     # glgg "А ты можешь, когда захочешь... Не волнуйся, сейчас так и сделаю."
-    glgg "And you can, whenever you want... Don't worry, I'll do it now."
+    glgg "Ah of course, whenever you want... Don't worry, I'll do it now."
 
 # game/character/meiko.rpy:990
 translate english meiko_body_24ee2fde:
 
     # "Взявшись за грудь девушки, вы начали ее нежно массировать, довольствуясь мягкостью, и лишь через время та нежность и аккуратность пропала, заменив себя на грубые касания."
-    "Grasping the girl's chest, you began to massage her gently, contenting yourself with softness, and only after a while did that tenderness and neatness disappear, replacing yourself with rough touching."
+    "Grasping the girl's chest, you begin to massage her gently, contenting yourself with the softness, a short moment later however, that tenderness disappears, replaced by rough gropes."
 
 # game/character/meiko.rpy:993
 translate english meiko_body_f73ac042:
 
     # "Щупая ели видные через эластичную ткань купальника соски девушки, ваши движения становились все более жесткими и настойчивыми, а от самой же жертвы домогательств начали доносится негромкие постанывания то ли от боли, то ли от приятности сего акта."
-    "The nipples of the girl's nipples visible through the elastic fabric of the swimsuit, your movements became more and more rigid and persistent, and from the very victim of harassment began to be heard from the slightest fasting, whether from pain or from the pleasure of this act."
+    "Feeling the girl's nipples through the elastic fabric of her swimsuit, your gropes became rougher and persistent, and from the very victim of this harassment, soft moans began to be heard, whether from pain, or the pleasure of this act."
 
 # game/character/meiko.rpy:996
 translate english meiko_body_1c679439:
 
     # meiko "ПРИДУРОК, МНЕ БОЛЬНО!"
-    meiko "YOU'RE HURTING ME, YOU IDIOT!"
+    meiko "YOU'RE HURTING ME, YOU JERK!"
 
 # game/character/meiko.rpy:997
 translate english meiko_body_73d4272a:
 
     # "Отбросив вашу руку, недавно трогающую грудь, Мэйко посмотрела на вас очередным непонимающим взглядом. Как оказалось, те стоны были все же от боли."
-    "Throwing away your hand recently touching your chest, Meiko looked at you with another incomprehensible look. As it turned out, those groans were still painful."
+    "Pushing the hand touching her chest away, Meiko looked at you with another incomprehensible look. As it turns out, those moans were due to pain."
 
 # game/character/meiko.rpy:1000
 translate english meiko_body_1865e1b4:
 
     # glgg "Будь тише."
-    glgg "Calm down"
+    glgg "Calm down."
 
 # game/character/meiko.rpy:1001
 translate english meiko_body_06b27956:
 
     # meiko "Каким образом мне быть тише, если ты мне чуть грудь не оторвал, идиот?!"
-    meiko "How can I be quieter if you almost ripped my boobs off, you idiot?!"
+    meiko "How can I be quiet when you almost ripped my boobs off you jerk?!"
 
 # game/character/meiko.rpy:1002
 translate english meiko_body_7d6ab432:
 
     # glgg "Слушай, я серьезно. Либо ты затыкаешься, либо видеозапись разлетится по школе и очень быстро."
-    glgg "Look, I'm serious. Either you shut up, or the video footage's gonna fly around school real fast."
+    glgg "Look, I'm serious. Either you shut up, or the video footage is gonna fly around school real fast."
 
 # game/character/meiko.rpy:1005
 translate english meiko_body_de127e4d:
 
     # meiko "Извини..."
-    meiko "I'm sorry..."
+    meiko "Sorry..."
 
 # game/character/meiko.rpy:1006
 translate english meiko_body_fc1e9919:
 
     # glgg "Ладно, отдыхай. Скоро я приду и скажу, что тебе нужно еще сделать, а пока… Просто ожидай?"
-    glgg "Okay, rest. Soon I'll come and tell you what else you need to do, but in the meantime... Just wait?"
+    glgg "Okay, have some rest. I'll come back and tell you what else you need to do, but for now... Just wait?"
 
 # game/character/meiko.rpy:1007
 translate english meiko_body_748a87ba_1:
@@ -2392,67 +2392,67 @@ translate english meiko_body_748a87ba_1:
 translate english meiko_body_8adb4ceb:
 
     # "Покинув раздевалку, вы оставили Мэйко наедине со своими мыслями."
-    "When you left the locker room, you left Meiko alone with your thoughts."
+    "You leave the locker room, leaving Meiko alone with her thoughts."
 
 # game/character/meiko.rpy:1013
 translate english meiko_body_735f2e55:
 
     # meiko "Чего… Опять? Тебе не хватило этого всего в прошлые разы?"
-    meiko "What... Again? Haven't you had enough of all this last time?"
+    meiko "What... Again? Haven't you had enough last time?"
 
 # game/character/meiko.rpy:1014
 translate english meiko_body_2f9345c7:
 
     # glgg "Зачем задавать вопросы, на которые ответ совершенно очевиден?"
-    glgg "Why ask questions where the answer is quite obvious?"
+    glgg "Why ask questions when their answers are quite obvious?"
 
 # game/character/meiko.rpy:1016
 translate english meiko_body_f401a356_1:
 
     # meiko "Тц… Подожди."
-    meiko "Okey... Wait."
+    meiko "Okay... Wait."
 
 # game/character/meiko.rpy:1018
 translate english meiko_body_f6429fe4_1:
 
     # "Осуждающе посмотрев на вашу тушку еще раз, Мэйко, направившаяся в ближайшую пустую раздевалку, на ходу жестом указала одной из доверенных девушек подменить ее."
-    "Condemning to look at your body again, Meiko, heading to the nearest empty locker room, gestured one of the trusted girls to replace her."
+    "Looking at you disapprovingly, Meiko, heading to the nearest empty locker room, gestured at one of the trusted girls to replace her."
 
 # game/character/meiko.rpy:1023
 translate english meiko_body_7aaf3515_1:
 
     # meiko "Ну и? Чего ты ждешь, придурок извращенный?"
-    meiko "Well? What are you waiting for, you twisted jerk?"
+    meiko "Well? What are you waiting for, you perverted jerk?"
 
 # game/character/meiko.rpy:1024
 translate english meiko_body_24ee2fde_1:
 
     # "Взявшись за грудь девушки, вы начали ее нежно массировать, довольствуясь мягкостью, и лишь через время та нежность и аккуратность пропала, заменив себя на грубые касания."
-    "Grasping the girl's chest, you began to massage her gently, contenting yourself with softness, and only after a while did that tenderness and neatness disappear, replacing yourself with rough touching."
+    "Grasping the girl's chest, you begin to massage her gently, contenting yourself with the softness, a short moment later however, that tenderness disappears, replaced by rough gropes."
 
 # game/character/meiko.rpy:1027
 translate english meiko_body_b6154742:
 
     # "Щупая ели видные через эластичную ткань купальника соски девушки, ваши движения становились все более жесткими и настойчивыми, а от самой же жертвы домогательств начали доносится негромкие постанывания."
-    "The girl's nipples visible through the elastic fabric of the swimsuit, your movements became more and more rigid and persistent, and from the victim of the harassment began to be heard lowly fasting."
+    "Feeling the girl's nipples through the elastic fabric of her swimsuit, your gropes became rougher and persistent, and from the very victim of this harassment, soft moans began to be heard."
 
 # game/character/meiko.rpy:1030
 translate english meiko_body_1c679439_1:
 
     # meiko "ПРИДУРОК, МНЕ БОЛЬНО!"
-    meiko "YOU'RE HURTING ME, YOU IDIOT!"
+    meiko "YOU'RE HURTING ME, YOU JERK!"
 
 # game/character/meiko.rpy:1031
 translate english meiko_body_73d4272a_1:
 
     # "Отбросив вашу руку, недавно трогающую грудь, Мэйко посмотрела на вас очередным непонимающим взглядом. Как оказалось, те стоны были все же от боли."
-    "Throwing away your hand recently touching your chest, Meiko looked at you with another incomprehensible look. As it turned out, those groans were still painful."
+    "Pushing the hand touching her chest away, Meiko looked at you with another incomprehensible look. As it turns out, those moans were due to pain."
 
 # game/character/meiko.rpy:1034
 translate english meiko_body_6cd25c57:
 
     # "Припомнив ваши недавние наставления, белокурая девушка опустила взгляд, но после сразу же его подняла, видно, почувствовав некоторую вину, а возможно и опасность..."
-    "Remembering your recent precepts, the blond girl lowered her gaze, but then immediately lifted it, apparently feeling some guilt, and perhaps danger..."
+    "Remembering your previous statement, the blonde girl lowered her gaze, but then immediately lifted it, evidently feeling some guilt, and perhaps fear..."
 
 # game/character/meiko.rpy:1037
 translate english meiko_body_2f434836:
@@ -2464,7 +2464,7 @@ translate english meiko_body_2f434836:
 translate english meiko_body_878d4cfe:
 
     # glgg "Не стоит. Я уже сделал свое дело, поэтому ожидай следующего раза и, пожалуйста, будь чуть сдержанней."
-    glgg "You shouldn't. I've already done my job, so expect the next time and please be a little more discreet."
+    glgg "Not necessary. I've already done what I want so expect our next time, and please, restrain yourself a little more."
 
 # game/character/meiko.rpy:1039
 translate english meiko_body_748a87ba_2:
@@ -2476,19 +2476,19 @@ translate english meiko_body_748a87ba_2:
 translate english meiko_body_8adb4ceb_1:
 
     # "Покинув раздевалку, вы оставили Мэйко наедине со своими мыслями."
-    "When you left the locker room, you left Meiko alone with your thoughts."
+    "You leave the locker room, leaving Meiko alone with her thoughts."
 
 # game/character/meiko.rpy:1043
 translate english meiko_body_f401a356_2:
 
     # meiko "Тц… Подожди."
-    meiko "Okey... Wait."
+    meiko "Okay... Wait."
 
 # game/character/meiko.rpy:1045
 translate english meiko_body_f6429fe4_2:
 
     # "Осуждающе посмотрев на вашу тушку еще раз, Мэйко, направившаяся в ближайшую пустую раздевалку, на ходу жестом указала одной из доверенных девушек подменить ее."
-    "Condemning to look at your body again, Meiko, heading to the nearest empty locker room, gestured one of the trusted girls to replace her."
+    "Looking at you disapprovingly, Meiko, heading to the nearest empty locker room, gestured at one of the trusted girls to replace her."
 
 # game/character/meiko.rpy:1050
 translate english meiko_body_5791eccf:
@@ -2500,13 +2500,13 @@ translate english meiko_body_5791eccf:
 translate english meiko_body_24ee2fde_2:
 
     # "Взявшись за грудь девушки, вы начали ее нежно массировать, довольствуясь мягкостью, и лишь через время та нежность и аккуратность пропала, заменив себя на грубые касания."
-    "Grasping the girl's chest, you began to massage her gently, contenting yourself with softness, and only after a while did that tenderness and neatness disappear, replacing yourself with rough touching."
+    "Grasping the girl's chest, you begin to massage her gently, contenting yourself with the softness, a short moment later however, that tenderness disappears, replaced by rough gropes."
 
 # game/character/meiko.rpy:1054
 translate english meiko_body_b6154742_1:
 
     # "Щупая ели видные через эластичную ткань купальника соски девушки, ваши движения становились все более жесткими и настойчивыми, а от самой же жертвы домогательств начали доносится негромкие постанывания."
-    "The girl's nipples visible through the elastic fabric of the swimsuit, your movements became more and more rigid and persistent, and from the victim of the harassment began to be heard lowly fasting."
+    "Feeling the girl's nipples through the elastic fabric of her swimsuit, your gropes became rougher and persistent, and from the very victim of this harassment, soft moans began to be heard."
 
 # game/character/meiko.rpy:1057
 translate english meiko_body_748a87ba_3:
@@ -2518,25 +2518,25 @@ translate english meiko_body_748a87ba_3:
 translate english meiko_body_e83b256f:
 
     # "Жалостливо подняв свой взгляд в вашу сторону, Мэйко, принявшая факт своей беспомощности, стойко терпела ваши грубые касания, ставшие для нее некой цепкой раздражающей обыденностью, но все же спустя пару минут она попросила вас перестать делать это..."
-    "Pitifully raising her eyes to you, Meiko, who accepted her helplessness, endured your rough touches, which became a kind of annoying routine for her, but a few minutes later she asked you to stop doing it..."
+    "Pitifully raising her eyes to you, Meiko, who has accepted her helplessness, endured your rough touch, which become something of an annoying routine for her, but a few minutes later she asks you to stop doing it..."
 
 # game/character/meiko.rpy:1061
 translate english meiko_body_614e62ea:
 
     # meiko "Можешь, пожалуйста, отпустить ее?.."
-    meiko "Can you please let her go?"
+    meiko "Can you please let them go..?"
 
 # game/character/meiko.rpy:1062
 translate english meiko_body_af092422:
 
     # glgg "Зачем же?"
-    glgg "Why"
+    glgg "Why?"
 
 # game/character/meiko.rpy:1063
 translate english meiko_body_1e5be74c:
 
     # meiko "Мне... Мне больно. Пожалуйста, отпусти мою грудь..."
-    meiko "I... I'm in pain. Please let go of my chest..."
+    meiko "I... I'm in pain. Please, let go of my chest..."
 
 # game/character/meiko.rpy:1066
 translate english meiko_body_de127e4d_1:
@@ -2548,7 +2548,7 @@ translate english meiko_body_de127e4d_1:
 translate english meiko_body_6af42ffc:
 
     # glgg "Ладно, отдыхай и жди момента, когда я приду снова. Это будет скоро, не сомневайся."
-    glgg "Okay, rest and wait for me to come again. It'll be soon, no doubt about it."
+    glgg "Alright, rest and wait for me to come back. It'll be soon, undoubtedly."
 
 # game/character/meiko.rpy:1068
 translate english meiko_body_748a87ba_4:
@@ -2560,43 +2560,43 @@ translate english meiko_body_748a87ba_4:
 translate english meiko_body_8adb4ceb_2:
 
     # "Покинув раздевалку, вы оставили Мэйко наедине со своими мыслями."
-    "When you left the locker room, you left Mayko alone with your thoughts."
+    "You leave the locker room, leaving Meiko alone with her thoughts."
 
 # game/character/meiko.rpy:1077
 translate english meiko_body_057755a2:
 
     # meiko "Хорошо… Подожди минутку. Мне нужно, чтобы меня заменили…"
-    meiko "Okay... Wait a minute. I need to be replaced..."
+    meiko "Okay... Give me a minute.. I need to be replaced..."
 
 # game/character/meiko.rpy:1079
 translate english meiko_body_ba889075:
 
     # "Посмотрев на вас еще раз, Мэйко, направившаяся в ближайшую пустую раздевалку, на ходу жестом указала одной из доверенных девушек подменить ее."
-    "Looking at you again, Meiko, heading to the nearest empty locker room, gestured one of the trusted girls to replace her."
+    "Looking at you, Meiko, heading to the nearest empty locker room, gestured at one of the trusted girls to replace her."
 
 # game/character/meiko.rpy:1084
 translate english meiko_body_9c55db60:
 
     # meiko "Начинай…"
-    meiko "Start..."
+    meiko "Go ahead..."
 
 # game/character/meiko.rpy:1085
 translate english meiko_body_b6b142ef:
 
     # glgg "Что-то в последнее время к моим просьбам ты относишься куда проще, чем раньше…"
-    glgg "Something about my requests lately you've been taking a lot easier than before..."
+    glgg "You've been taking my requests much easier than before..."
 
 # game/character/meiko.rpy:1089
 translate english meiko_body_77c95ae5:
 
     # meiko "Я тебе уже отвечала на это – я попросту привыкла. Занимаясь постоянно чем-то, человек может привыкнуть, отчего он и будет относиться равнодушнее к чему бы то ни было. Даже к подобным вещам…"
-    meiko "I've already answered you - I'm just used to it. Doing something all the time, a person can get used to it, which is why he will treat indifference to anything. Even that kind of thing..."
+    meiko "I've already answered you - I'm just used to it. Constantly being engaged in something, a person can get used to it, which is why they will eventually treat everything with indifference. Even this kind of thing..."
 
 # game/character/meiko.rpy:1090
 translate english meiko_body_d31a9cbb:
 
     # glgg "Правда оказалась куда прозаичнее, чем я думал…"
-    glgg "The truth was much more prosaic than I thought..."
+    glgg "The truth was much more matter-of-fact than I thought..."
 
 # game/character/meiko.rpy:1092
 translate english meiko_body_49f80ea0:
@@ -2608,19 +2608,19 @@ translate english meiko_body_49f80ea0:
 translate english meiko_body_aea194cb:
 
     # glgg "Сначала ты привыкаешь, потом тебе все это нравится…"
-    glgg "First you get used to it, then you like it all..."
+    glgg "First you get used to it, then you like it..."
 
 # game/character/meiko.rpy:1096
 translate english meiko_body_4902fd07:
 
     # meiko "Ни за что! Мне никогда не будет нравиться заниматься чем-то подобным с извращенным парнем, которому лишь бы заставить меня сделать какую-либо пошлость!"
-    meiko "No way! I'll never like doing something like that with a perverted guy who just makes me do something dirty!"
+    meiko "No way! I'll never like doing something like this with a perverted guy who just forces me do depravities!"
 
 # game/character/meiko.rpy:1097
 translate english meiko_body_b57078d2:
 
     # glgg "Это как раз скоро и станет известно, а сейчас… Сейчас, думаю, тебе лучше заткнуться и прочувствовать момент, как тебя лапает неизвестный…"
-    glgg "This is about to get out, and now... Now I think you'd better shut up and feel the moment when the unknown gropes you..."
+    glgg "It'll happen soon, and now... Now I think you'd better shut up and enjoy the moment when the stranger gropes you..."
 
 # game/character/meiko.rpy:1100
 translate english meiko_body_00ceeaa9:
@@ -2632,13 +2632,13 @@ translate english meiko_body_00ceeaa9:
 translate english meiko_body_24ee2fde_3:
 
     # "Взявшись за грудь девушки, вы начали ее нежно массировать, довольствуясь мягкостью, и лишь через время та нежность и аккуратность пропала, заменив себя на грубые касания."
-    "Grasping the girl's chest, you began to massage her gently, contenting yourself with softness, and only after a while did that tenderness and neatness disappear, replacing yourself with rough touching."
+    "Grasping the girl's chest, you begin to massage her gently, contenting yourself with the softness, a short moment later however, that tenderness disappears, replaced by rough gropes."
 
 # game/character/meiko.rpy:1104
 translate english meiko_body_b6154742_2:
 
     # "Щупая ели видные через эластичную ткань купальника соски девушки, ваши движения становились все более жесткими и настойчивыми, а от самой же жертвы домогательств начали доносится негромкие постанывания."
-    "The girl's nipples visible through the elastic fabric of the swimsuit, your movements became more and more rigid and persistent, and from the victim of the harassment began to be heard lowly fasting."
+    "Feeling the girl's nipples through the elastic fabric of her swimsuit, your gropes became rougher and persistent, and from the very victim of this harassment, soft moans began to be heard."
 
 # game/character/meiko.rpy:1107
 translate english meiko_body_07cf8042:
@@ -2656,31 +2656,31 @@ translate english meiko_body_dc286650:
 translate english meiko_body_f249a94e:
 
     # glgg "Невинным? С каких пор девушки, которые трахаются в общественном месте – невинные девы?"
-    glgg "Innocent? Since when are girls who fuck in a public place - innocent virgins?"
+    glgg "Innocent? Since when are girls who fuck in a public place - innocent?"
 
 # game/character/meiko.rpy:1116
 translate english meiko_body_033322fa:
 
     # meiko "Заткнись… Идиот…"
-    meiko "Shut up... Idiot..."
+    meiko "Shut up... Jerk..."
 
 # game/character/meiko.rpy:1119
 translate english meiko_body_f9ea84b8:
 
     # "Глянув на немного расстроенную Мэйко, вы продолжили трогать ее грудь, по коже которой уже наверняка будут если не синяки, то покраснения уж точно, учитывая с какой силой ее трогали."
-    "Looking at the slightly upset Meiko, you continued to touch her breasts, which will certainly have bruises, if not redness, given the strength with which she was touched."
+    "Looking at the slightly upset Meiko, you continued to grope her breasts, on which will probably have bruises, if not red marks, given the strength she was groped with."
 
 # game/character/meiko.rpy:1122
 translate english meiko_body_7fcfe3b3:
 
     # "Посмотрев на вас жалостливым взглядом, который буквально-таки умолял прекратить вас заниматься садизмом, Мэйко то и дело гулко стонала от боли, постоянно меняя свою опорную ногу."
-    "Looking at you with a pitiful look that literally begged you to stop being sadistic, Meiko kept moaning with pain, constantly changing her support leg."
+    "Looking at you with a pitiful look that literally begged you to stop being sadistic, Meiko kept moaning with pain, constantly shifting her weight from one leg to another."
 
 # game/character/meiko.rpy:1125
 translate english meiko_body_e9d7fcd8:
 
     # "В конце концов понаблюдав за ее реакцией на такое еще несколько минут, вскоре вы благополучно убрали от нее привыкшие к мягкости ладони, сунув их в привычное им место – карманы."
-    "In the end, after watching her react for a few more minutes, you soon safely removed her soft palms, sticking them in their usual place - their pockets."
+    "In the end, after watching her react for a few more minutes, you soon removed your hands from her chest, accustomed to her softness, bvefore putting them in their usual place - your pockets."
 
 # game/character/meiko.rpy:1128
 translate english meiko_body_28bf9a14:
@@ -2698,13 +2698,13 @@ translate english meiko_body_7d0dc223:
 translate english meiko_body_455401b4:
 
     # meiko "Да пошел ты к черту… После твоих касаний скорее всего я еще долго не смогу к ним притрагиваться."
-    meiko "Go to hell... After you touch them, I probably won't be able to touch them for long."
+    meiko "Go to hell... After you touch them, I probably won't be able to touch them for long time."
 
 # game/character/meiko.rpy:1133
 translate english meiko_body_f17fe555:
 
     # glgg "Думаю, так будет даже лучше. В конце-то концов теперь прикасаться к ним могу лишь я."
-    glgg "I think it's even better. After all, only I can touch them now."
+    glgg "That's even better. After all, only I can touch them now."
 
 # game/character/meiko.rpy:1136
 translate english meiko_body_8a2726ff:
@@ -2716,7 +2716,7 @@ translate english meiko_body_8a2726ff:
 translate english meiko_body_eb505f51:
 
     # meiko "Какой же все-таки ты мудак… "
-    meiko "What an asshole you are after all..."
+    meiko "What an asshole..."
 
 # game/character/meiko.rpy:1140
 translate english meiko_body_3e2309a5:
@@ -2728,13 +2728,13 @@ translate english meiko_body_3e2309a5:
 translate english meiko_body_137986de:
 
     # "Продолжив трогать грудь девушки, но уже менее настойчиво и грубо, вы глянули на нее и к вам пришло понимание одной вещи… Наконец-то она начала стонать не от боли, а от того, что ей стало приятно, но помимо этого в Мэйко начала чувствоваться некая… Нотка ненависти к себе?"
-    "Continuing to touch the girl's breasts, but less insistent and rudely, you looked at her and came to you an understanding of one thing... Finally she began to moan not from pain, but from the fact that she felt good, but also began to feel a kind of... A note of self-loathing in Meiko?"
+    "Continuing to touch the girl's breasts yet less persistent and roughly, you looked at her and you came into one understanding... She's finally beginning to moan not from pain, but from the fact that she felt good, but you also begin to feel a certain measure of... self-loathing in Meiko?"
 
 # game/character/meiko.rpy:1147
 translate english meiko_body_ebc9beee:
 
     # "Прекратив трогать ее лишь через минуту, ваша жертва посмотрела с недоумением вам в глаза."
-    "Stop touching her after a minute, your victim looked you in the eye with perplexity."
+    "Ceasing to touch her only after a minute, your victim looked you in the eye with perplexity."
 
 # game/character/meiko.rpy:1148
 translate english meiko_body_4736d8fd:
@@ -2752,37 +2752,37 @@ translate english meiko_body_8ea8bf96:
 translate english meiko_body_8adb4ceb_3:
 
     # "Покинув раздевалку, вы оставили Мэйко наедине со своими мыслями."
-    "When you left the locker room, you left Meiko alone with your thoughts."
+    "You leave the locker room, leaving Meiko alone with her thoughts."
 
 # game/character/meiko.rpy:1155
 translate english meiko_body_057755a2_1:
 
     # meiko "Хорошо… Подожди минутку. Мне нужно, чтобы меня заменили…"
-    meiko "Okay... Wait a minute. I need to be replaced..."
+    meiko "Okay... Give me a minute.. I need to be replaced..."
 
 # game/character/meiko.rpy:1157
 translate english meiko_body_ba889075_1:
 
     # "Посмотрев на вас еще раз, Мэйко, направившаяся в ближайшую пустую раздевалку, на ходу жестом указала одной из доверенных девушек подменить ее."
-    "Looking at you again, Meiko, heading to the nearest empty locker room, gestured one of the trusted girls to replace her."
+    "Looking at you, Meiko, heading to the nearest empty locker room, gestured at one of the trusted girls to replace her."
 
 # game/character/meiko.rpy:1162
 translate english meiko_body_9c55db60_1:
 
     # meiko "Начинай…"
-    meiko "Start..."
+    meiko "Go ahead..."
 
 # game/character/meiko.rpy:1163
 translate english meiko_body_24ee2fde_4:
 
     # "Взявшись за грудь девушки, вы начали ее нежно массировать, довольствуясь мягкостью, и лишь через время та нежность и аккуратность пропала, заменив себя на грубые касания."
-    "Grasping the girl's chest, you began to massage her gently, contenting yourself with softness, and only after a while did that tenderness and neatness disappear, replacing yourself with rough touching."
+    "Grasping the girl's chest, you begin to massage her gently, contenting yourself with the softness, a short moment later however, that tenderness disappears, replaced by rough gropes."
 
 # game/character/meiko.rpy:1166
 translate english meiko_body_b6154742_3:
 
     # "Щупая ели видные через эластичную ткань купальника соски девушки, ваши движения становились все более жесткими и настойчивыми, а от самой же жертвы домогательств начали доносится негромкие постанывания."
-    "The girl's nipples visible through the elastic fabric of the swimsuit, your movements became more and more rigid and persistent, and from the victim of the harassment began to be heard lowly fasting."
+    "Feeling the girl's nipples through the elastic fabric of her swimsuit, your gropes became rougher and persistent, and from the very victim of this harassment, soft moans began to be heard."
 
 # game/character/meiko.rpy:1169
 translate english meiko_body_07cf8042_1:
@@ -2794,13 +2794,13 @@ translate english meiko_body_07cf8042_1:
 translate english meiko_body_137986de_1:
 
     # "Продолжив трогать грудь девушки, но уже менее настойчиво и грубо, вы глянули на нее и к вам пришло понимание одной вещи… Наконец-то она начала стонать не от боли, а от того, что ей стало приятно, но помимо этого в Мэйко начала чувствоваться некая… Нотка ненависти к себе?"
-    "Continuing to touch the girl's breasts, but less insistent and rudely, you looked at her and came to you an understanding of one thing... Finally she began to moan not from pain, but from the fact that she felt good, but also began to feel a kind of... A note of self-loathing in Mayko?"
+    "Continuing to touch the girl's breasts yet less persistent and roughly, you looked at her and you came into one understanding... She's finally beginning to moan not from pain, but from the fact that she felt good, but you also begin to feel a certain measure of... self-loathing in Meiko?"
 
 # game/character/meiko.rpy:1175
 translate english meiko_body_ebc9beee_1:
 
     # "Прекратив трогать ее лишь через минуту, ваша жертва посмотрела с недоумением вам в глаза."
-    "Stop touching her after a minute, your victim looked you in the eye with perplexity."
+    "Ceasing to touch her only after a minute, your victim looked you in the eye with perplexity."
 
 # game/character/meiko.rpy:1176
 translate english meiko_body_4736d8fd_1:
@@ -2818,13 +2818,13 @@ translate english meiko_body_8ea8bf96_1:
 translate english meiko_body_c41e07dc:
 
     # meiko "Хорошо… Подожди минутку."
-    meiko "Okay... Wait a minute."
+    meiko "Okay... Give me a minute.."
 
 # game/character/meiko.rpy:1182
 translate english meiko_body_ba889075_2:
 
     # "Посмотрев на вас еще раз, Мэйко, направившаяся в ближайшую пустую раздевалку, на ходу жестом указала одной из доверенных девушек подменить ее."
-    "Looking at you again, Meiko, heading to the nearest empty locker room, gestured one of the trusted girls to replace her."
+    "Looking at you, Meiko, heading to the nearest empty locker room, gestured at one of the trusted girls to replace her."
 
 # game/character/meiko.rpy:1187
 translate english meiko_body_61c15b6b:
@@ -2836,7 +2836,7 @@ translate english meiko_body_61c15b6b:
 translate english meiko_body_1a88a786:
 
     # "Глянув на вас с некоторой неуверенностью, ожидая, пока вы сделаете свое грязное дело, Мэйко почувствовала достаточно грубые касания, сразу же перешедшие в нежное массирование груди."
-    "Looking at you with some uncertainty, waiting for you to do your dirty work, Meiko felt a rather rough touch, immediately transformed into a gentle massaging of the chest."
+    "Looking at you with some uncertainty as she waits for you to do your dirty work, Meiko felt a rather rough touch, which immediately transformed into gentle massages on her chest."
 
 # game/character/meiko.rpy:1191
 translate english meiko_body_731f6afb:
@@ -2848,13 +2848,13 @@ translate english meiko_body_731f6afb:
 translate english meiko_body_1bf97772:
 
     # "Продолжив нежно трогать грудь белокурой девушки, вы глянули на нее и к вам пришло понимание одной вещи… Наконец-то она начала стонать не от боли, а от того, что ей стало приятно, но помимо этого в Мэйко начала чувствоваться некая… Нотка ненависти к себе?"
-    "As you continued to touch the blonde girl's chest gently, you looked at her and one thing came to you... Finally she started moaning not because of the pain but because she felt good, but also because there was a certain... A note of self-loathing in Meiko?"
+    "As you continued to touch the blonde girl's chest gently, you looked at her and you came into one understanding... She's finally beginning to moan not from pain but because she felt good, but you also begin to feel a certain measure of... self-loathing in Meiko?"
 
 # game/character/meiko.rpy:1197
 translate english meiko_body_ebc9beee_2:
 
     # "Прекратив трогать ее лишь через минуту, ваша жертва посмотрела с недоумением вам в глаза."
-    "Stop touching her after a minute, your victim looked you in the eye with perplexity."
+    "Ceasing to touch her only after a minute, your victim looked you in the eye with perplexity."
 
 # game/character/meiko.rpy:1198
 translate english meiko_body_4736d8fd_2:
@@ -2866,13 +2866,13 @@ translate english meiko_body_4736d8fd_2:
 translate english meiko_body_5139a9d9:
 
     # meiko "то немного странно, наверное, слышать от меня, но… Спасибо тебе еще раз. В этот раз мне даже немного понравилось… "
-    meiko "I guess it's a little weird to hear from me, but... Thank you again. I even liked it a little this time... "
+    meiko "I guess it's a little weird to hear from me, but... Thanks again. I even liked it a little this time... "
 
 # game/character/meiko.rpy:1200
 translate english meiko_body_8adb4ceb_4:
 
     # "Покинув раздевалку, вы оставили Мэйко наедине со своими мыслями."
-    "When you left the locker room, you left Meiko alone with your thoughts."
+    "You leave the locker room, leaving Meiko alone with her thoughts."
 
 # game/character/meiko.rpy:1216
 translate english sex_meiko_0d621b2b:
@@ -2884,7 +2884,7 @@ translate english sex_meiko_0d621b2b:
 translate english sex_meiko_4cd5d0ca:
 
     # glgg "Вон оно как. Слушай, мне на самом деле даже надоели твои отказы в этом. Может, сделаешь мне одолжение, и мы наконец-то сделаем это?"
-    glgg "There it is. Look, I'm really sick of your rejection of this. Why don't you do me a favor and we can finally do this?"
+    glgg "There it is. Look, I'm really sick of your rejections. Why don't you do me a favor and we can finally do this?"
 
 # game/character/meiko.rpy:1219
 translate english sex_meiko_9e244232:
@@ -2896,43 +2896,43 @@ translate english sex_meiko_9e244232:
 translate english sex_meiko_e127cec1:
 
     # glgg "Не волнуйся ты так… Ты получишь удовольствие, и мы разойдемся довольными собой. Наконец-то ты получишь того, что ты так долго ожидала."
-    glgg "Don't worry so much... You'll have fun, and we'll split up happy with ourselves. You'll finally get what you've been waiting for."
+    glgg "Don't worry so much... You'll enjoy it and we'll both split up satisfied. You'll finally get what you've been waiting for so long."
 
 # game/character/meiko.rpy:1222
 translate english sex_meiko_27c8f416:
 
     # meiko "Этого я ждала уж точно не с тобой… Ты – извращенный и черствый маньяк, домогающийся до девушек. Кто вообще будет получать удовольствие, занимаясь с тобой… Ну… Любовью?"
-    meiko "That's not what I was expecting with you... You're a twisted and stale maniac harassing girls. Who would ever have fun doing... Well... Love?"
+    meiko "That's not what I was expecting from you... You're a cold, perverted psychopath harassing girls. Who would ever enjoy... Well... Making love with you?"
 
 # game/character/meiko.rpy:1223
 translate english sex_meiko_50fdd319:
 
     # glgg "Вот ты и проверишь свое утверждение."
-    glgg "So you'll check your statement."
+    glgg "Do you want to check your statement?"
 
 # game/character/meiko.rpy:1225
 translate english sex_meiko_9e244232_1:
 
     # meiko "Ни за что."
-    meiko "No way."
+    meiko "Never."
 
 # game/character/meiko.rpy:1226
 translate english sex_meiko_3d88f5d5:
 
     # glgg "Хорошо, тогда прямо сейчас я распространю то видео, от которого скорее всего у тебя появятся неисправимые проблемы."
-    glgg "Okay, then right now, I'm gonna distribute that video that's gonna cause you some kind of irreparable problems."
+    glgg "Alright, then I'll be distributing that video, which will undoubtedly cause you some irreparable issues."
 
 # game/character/meiko.rpy:1228
 translate english sex_meiko_5505ae77:
 
     # meiko "Хуже уже быть все равно не может."
-    meiko "It can't get any worse."
+    meiko "It can't be any worse."
 
 # game/character/meiko.rpy:1229
 translate english sex_meiko_ee18ed94:
 
     # glgg "Действительно. Потеря любимого дела, репутации, друзей, постоянные издевательства – то, что будет преследовать тебя постоянно. Ты действительно хочешь довести до этого всего свою жизнь."
-    glgg "Really. Losing your favorite cause, reputation, friends, constant bullying is something that will haunt you all the time. You really want to bring your whole life to this."
+    glgg "Really, losing your favorite club, reputation, friends, the constant bullying - these are things that will haunt you for your entire life. Do you really want to bring all that into your life?"
 
 # game/character/meiko.rpy:1231
 translate english sex_meiko_8a2726ff:
@@ -2968,7 +2968,7 @@ translate english sex_meiko_63792829:
 translate english sex_meiko_60ed8e6e:
 
     # glgg "Зачем спрашивать вопрос, ответ на который совершенно очевиден?"
-    glgg "Why ask a question the answer to which is perfectly obvious?"
+    glgg "Why ask a question when the answer is quite obvious?"
 
 # game/character/meiko.rpy:1242
 translate english sex_meiko_8a2726ff_1:
@@ -2980,55 +2980,55 @@ translate english sex_meiko_8a2726ff_1:
 translate english sex_meiko_a7013064:
 
     # "Встав перед вами по стойке смирно, Мэйко начала ожидать действий от вас, которые произошли буквально-таки сразу, как только она согласилась."
-    "As she stood before you, Meiko began to expect action from you, which happened literally as soon as she agreed."
+    "As she stood before you, Meiko began to expecting you to do something, which happens as soon as she agrees."
 
 # game/character/meiko.rpy:1247
 translate english sex_meiko_4926ea72:
 
     # "Взяв ее за опорную ногу, предварительно чуть спустив ваши штаны, державшие уже стоячего солдата в тесных оковах, вы поднесли его к скрытой за обтягивающей эластичной тканью вульве, которая принадлежала вашей новоиспеченной белокурой партнерше."
-    "Having taken it by its supporting leg, having slightly lowered your pants, holding the already standing soldier in tight shackles, you brought it to the hidden behind a tight elastic fabric vulva, which belonged to your new blond partner."
+    "Holding her by her right thigh after lowering your pants just enough, you held your erect cock and pushed it against her pussy, hidden behind the tight elastic fabric which belonged to your blonde partner."
 
 # game/character/meiko.rpy:1250
 translate english sex_meiko_a0981d7a:
 
     # "Глянув на вас с некоторой неуверенностью, девушка уже начала сомневаться в своем недавнем выборе, но благо длилось это совершенно недолго."
-    "Looking at you with some uncertainty, the girl had already begun to doubt her recent choices, but the things didn't last long."
+    "Looking at you with some uncertainty, the girl had already begun to doubt her choice, but her chance to do so didn't last long."
 
 # game/character/meiko.rpy:1251
 translate english sex_meiko_e808ee6b:
 
     # "Более не в силах сдерживаться, ваша рука чуть отодвинула мешающий кусок плавательной принадлежность в сторону, открывая вид на долгожданную и несколько злосчастную за все ваши вложенные старания награду, которая была сразу же взята."
-    "No longer able to hold back, your hand slightly pushed the interfering piece of the swimsuit aside, overlooking the long-awaited and somewhat unfortunate reward for all your hard work, which was immediately taken."
+    "Unable to hold back any longer, you push the interfering piece of swimsuit aside, reavealing the long-awaited and somewhat hard-earned reward for all your hard work, which you immediately take."
 
 # game/character/meiko.rpy:1254
 translate english sex_meiko_59edb97f:
 
     # "Вставив свой готовый к бою агрегат в несильно мокрое влагалище, которое явно пока что было не очень-то и готово ко всему этому акту, от Мэйко послышался знакомый вам не понаслышке протяжный и гулкий стон боли, умолящий быть чуть нежнее."
-    "After inserting his combat-ready unit into an insufficiently wet vagina, which was obviously not very ready for the whole act so far, from Meiko heard a long and resounding groan of pain you know firsthand, begging to be a little more gentle."
+    "Inserting your action-ready cock into an insufficiently wet pussy, obviously not ready for this act just yet and from Meiko, you hear a long and echoing moan of pain familiar to you, pleading you to be a little gentler."
 
 # game/character/meiko.rpy:1257
 translate english sex_meiko_0351bc70:
 
     # "Приняв это во внимание, ритм ваших движений сильно сменился на более медленный, и это, конечно же, дало свои плоды – достаточно громкие отзвуки стали менее тихими, да и означали они уже совершенно другой результат, которым вы, несомненно, были полностью довольны глубоко в душе."
-    "Having taken this into account, the rhythm of your movements has changed much to a slower rhythm, and this, of course, has borne fruit - rather loud echoes have become less quiet, and they mean a completely different result, which you were certainly completely satisfied with deep down in your soul."
+    "Taking this into account, the rhythm of your movements changes to a much slower rhythm, and this, of course, bears fruit - the already loud echoes become less  and less quiet, and they mean completely different, which you are very satisfied by deep down."
 
 # game/character/meiko.rpy:1258
 translate english sex_meiko_9d2d7ab5:
 
     # "Чувствуя все меньшее сопротивление внутри, темп ваших движений наконец-то повышался, давая вам все большую усладу, и длилось это все достаточно долго: не останавливаясь ни на секунду, вы продолжали буквально-таки разрывать лоно вашей партнерши, чувствовавшей приближение чего-то ранее ей знакомого…"
-    "Feeling less and less resistance inside, the pace of your movement finally increased, giving you more and more pleasure, and it all lasted long enough: without stopping for a second, you continued to literally tear apart the bosom of your partner, who felt something previously familiar to her..."
+    "Feeling less and less resistance inside, the pace of your movements finally increase, giving yourself more and more pleasure and it lasted long enough: Without stopping for a single second, you continued to tear your partner's womb apart, who also felt the approach of something previously familiar to her..."
 
 # game/character/meiko.rpy:1261
 translate english sex_meiko_f6d977b0:
 
     # "И наконец-таки Мэйко получила залп вашего семени внутрь себя, а вы же благополучно отпустили ее ногу обратно на пол, явно будучи довольным своими свершениями."
-    "And finally, Meiko got a piece of your seed inside herself, and you safely let her foot back on the floor, clearly happy with your accomplishments."
+    "And finally, Meiko receives a salvo of your cum deep inside her before you safely let her foot back on the floor, clearly happy with your accomplishments."
 
 # game/character/meiko.rpy:1266
 translate english sex_meiko_65f99f85:
 
     # "Подождав, пока белокурая девушка восстановит свое сбившееся дыхание, вы сразу же услышали недовольные возгласы."
-    "Waiting for the blond girl to recover her lost breath, you immediately heard the disgruntled cries."
+    "After waiting for the blonde girl to regain her breath, you immediately hear her unhappy exclaims."
 
 # game/character/meiko.rpy:1268
 translate english sex_meiko_aa8c0d1e:
@@ -3052,25 +3052,25 @@ translate english sex_meiko_8a2726ff_2:
 translate english sex_meiko_8adb4ceb:
 
     # "Покинув раздевалку, вы оставили Мэйко наедине со своими мыслями."
-    "When you left the locker room, you left Meiko alone with your thoughts."
+    "You leave the locker room, leaving Meiko alone with her thoughts."
 
 # game/character/meiko.rpy:1275
 translate english sex_meiko_46a008d1:
 
     # meiko "Ч… Чего ты хочешь? Нет! Ни в коем случае! Такого точно быть не может, как минимум, потому что я встречаюсь с другим молодым человеком! Измена – худший из грехов!"
-    meiko "Wha... What do you want? No! Absolutely not! There's no way that's for sure, at least because I'm seeing another young man! Cheating is the worst of sins!"
+    meiko "W... What do you want? No! Absolutely not! There's no way that's going to happen because I'm dating another guy! Cheating is the worst of sins!"
 
 # game/character/meiko.rpy:1276
 translate english sex_meiko_bfedbe7d:
 
     # glgg "Так я тебя уже не только облапал, но и видел голой множество раз. Какая уж там разница, как наши отношения пойдут дальше? Одним половым актом больше, другим меньше."
-    glgg "So I've not only touched you, but I've seen you naked a lot. What does it matter how our relationship moves on? One intercourse more, the other less."
+    glgg "Not only have I touched you, but I've also seen you naked multitudes of times. What difference does it make? One intercourse more, the others less."
 
 # game/character/meiko.rpy:1278
 translate english sex_meiko_e04e50f5:
 
     # meiko "Знаешь, хоть мой молодой человек и стал меняться в худшую сторону, я не собираюсь за его спиной заниматься подобным. Да и, думаю, будь ты хоть самым последним человеком на земле, я бы была того же мнения."
-    meiko "You know, even though my young man has started to change for the worse, I'm not going behind his back to do something like that. And I think if you were the last person in the world, I'd have the same opinion."
+    meiko "You know, even though my boyfriend has started to change for the worse, I'm not going behind his back to do something like that. And even if you were the last person in the world, I'd have the same opinion."
 
 # game/character/meiko.rpy:1282
 translate english sex_meiko_7c8e9f9b:
@@ -3088,7 +3088,7 @@ translate english sex_meiko_61538333:
 translate english sex_meiko_b8ac7a06:
 
     # glgg "А вот твое будущее вполне себе. Хотя… Нет, не только твое, а еще и [name_meiko], который, если видео распространится, скорее всего бросит тебя на произвол судьбы, переехав в другой город в надежде, что о его действиях никто не узнает."
-    glgg "But your future is pretty much yours. Although... No, not just yours, but also [name_meiko], which, if the video spreads, will probably leave you to your fate, moving to another city in the hope that no one will know about his actions."
+    glgg "Your future belongs to you though. Although... No, not just yours, but also [name_meiko], who, if the video spreads, will probably leave you to your fate, moving to another city in the hopes that no one will know about his actions."
 
 # game/character/meiko.rpy:1290
 translate english sex_meiko_8a2726ff_3:
@@ -3100,13 +3100,13 @@ translate english sex_meiko_8a2726ff_3:
 translate english sex_meiko_deaa0ec5:
 
     # glgg "В этом случае, думаю, ты не только потеряешь своего парня, авторитет среди людей, место в клубе, но и гордость, которая сейчас говорит за тебя. Подумай головой: тебя скорее всего бросят сразу после того, как видеозапись будет в общем доступе. Не лучше ли избежать этого, нарушив немногозначные и мнимые принципы?"
-    glgg "In this case, I think you'll not only lose your boyfriend, authority among people, a place in the club, but also the pride that speaks for you now. Think with your head: you'll probably get dumped right after the video is shared. Wouldn't it be better to avoid it by breaking a little bit of an imaginary principle?"
+    glgg "In that case, Not only will you lose your boyfriend, respect among people, your place in the club, but also the pride that speaks for you now. Think with your head: You'll probably get dumped as soon as the video is shared. Wouldn't it be better to avoid that by breaking a little bit of that imaginary principle?"
 
 # game/character/meiko.rpy:1293
 translate english sex_meiko_787088a4:
 
     # meiko "Они не мнимые..."
-    meiko "They are not imaginary..."
+    meiko "They're not imaginary..."
 
 # game/character/meiko.rpy:1294
 translate english sex_meiko_7a6e0ac0:
@@ -3118,103 +3118,103 @@ translate english sex_meiko_7a6e0ac0:
 translate english sex_meiko_d5c5c37a:
 
     # meiko "Когда-нибудь ты точно пожалеешь, что вообще родился на свет…"
-    meiko "Someday you'll surely regret being born in the first place..."
+    meiko "Someday you'll regret being born at all..."
 
 # game/character/meiko.rpy:1299
 translate english sex_meiko_1_df3471ba:
 
     # meiko "В общем, я согласна, но при одном условии… Сделай, пожалуйста, это быстро…"
-    meiko "Anyway, I agree, but on one condition... Do it quickly, please..."
+    meiko "Anyway, I agree, but under one condition... Do it quickly, please..."
 
 # game/character/meiko.rpy:1304
 translate english sex_meiko_1_a7013064:
 
     # "Встав перед вами по стойке смирно, Мэйко начала ожидать действий от вас, которые произошли буквально-таки сразу, как только она согласилась."
-    "As she stood before you, Meiko began to expect action from you, which happened literally as soon as she agreed."
+    "As she stood before you, Meiko began to expecting you to do something, which happens as soon as she agrees."
 
 # game/character/meiko.rpy:1305
 translate english sex_meiko_1_4926ea72:
 
     # "Взяв ее за опорную ногу, предварительно чуть спустив ваши штаны, державшие уже стоячего солдата в тесных оковах, вы поднесли его к скрытой за обтягивающей эластичной тканью вульве, которая принадлежала вашей новоиспеченной белокурой партнерше."
-    "Having taken it by its supporting leg, having slightly lowered your pants, holding the already standing soldier in tight shackles, you brought it to the hidden behind a tight elastic fabric vulva, which belonged to your new blond partner."
+    "Holding her by her right thigh after lowering your pants just enough, you held your erect cock and pushed it against her pussy, hidden behind the tight elastic fabric which belonged to your blonde partner."
 
 # game/character/meiko.rpy:1308
 translate english sex_meiko_1_a0981d7a:
 
     # "Глянув на вас с некоторой неуверенностью, девушка уже начала сомневаться в своем недавнем выборе, но благо длилось это совершенно недолго."
-    "Looking at you with some uncertainty, the girl had already begun to doubt her recent choices, but the good things didn't last long."
+    "Looking at you with some uncertainty, the girl had already begun to doubt her choice, but her chance to do so didn't last long."
 
 # game/character/meiko.rpy:1309
 translate english sex_meiko_1_e808ee6b:
 
     # "Более не в силах сдерживаться, ваша рука чуть отодвинула мешающий кусок плавательной принадлежность в сторону, открывая вид на долгожданную и несколько злосчастную за все ваши вложенные старания награду, которая была сразу же взята."
-    "No longer able to hold back, your hand slightly pushed the interfering piece of the swimsuit aside, overlooking the long-awaited and somewhat unfortunate reward for all your hard work, which was immediately taken."
+    "Unable to hold back any longer, you push the interfering piece of swimsuit aside, reavealing the long-awaited and somewhat hard-earned reward for all your hard work, which you immediately take."
 
 # game/character/meiko.rpy:1312
 translate english sex_meiko_1_59edb97f:
 
     # "Вставив свой готовый к бою агрегат в несильно мокрое влагалище, которое явно пока что было не очень-то и готово ко всему этому акту, от Мэйко послышался знакомый вам не понаслышке протяжный и гулкий стон боли, умолящий быть чуть нежнее."
-    "After inserting his combat-ready unit into an insufficiently wet vagina, which was obviously not very ready for the whole act so far, for Mayko heard a long and resounding groan of pain you know firsthand, begging to be a little more gentle."
+    "Inserting your action-ready cock into an insufficiently wet pussy, obviously not ready for this act just yet and from Meiko, you hear a long and echoing moan of pain familiar to you, pleading you to be a little gentler."
 
 # game/character/meiko.rpy:1315
 translate english sex_meiko_1_0351bc70:
 
     # "Приняв это во внимание, ритм ваших движений сильно сменился на более медленный, и это, конечно же, дало свои плоды – достаточно громкие отзвуки стали менее тихими, да и означали они уже совершенно другой результат, которым вы, несомненно, были полностью довольны глубоко в душе."
-    "Having taken this into account, the rhythm of your movements has changed much to a slower rhythm, and this, of course, has borne fruit - rather loud echoes have become less quiet, and they mean a completely different result, which you were certainly completely satisfied with deep down in your soul."
+    "Taking this into account, the rhythm of your movements changes to a much slower rhythm, and this, of course, bears fruit - the already loud echoes become less  and less quiet, and they mean completely different, which you are very satisfied by deep down."
 
 # game/character/meiko.rpy:1316
 translate english sex_meiko_1_9d2d7ab5:
 
     # "Чувствуя все меньшее сопротивление внутри, темп ваших движений наконец-то повышался, давая вам все большую усладу, и длилось это все достаточно долго: не останавливаясь ни на секунду, вы продолжали буквально-таки разрывать лоно вашей партнерши, чувствовавшей приближение чего-то ранее ей знакомого…"
-    "Feeling less and less resistance inside, the pace of your movement finally increased, giving you more and more pleasure, and it all lasted long enough: without stopping for a second, you continued to literally tear apart the bosom of your partner, who felt something previously familiar to her..."
+    "Feeling less and less resistance inside, the pace of your movements finally increase, giving yourself more and more pleasure and it lasted long enough: Without stopping for a single second, you continued to tear your partner's womb apart, who also felt the approach of something previously familiar to her..."
 
 # game/character/meiko.rpy:1319
 translate english sex_meiko_1_edab4599:
 
     # "Понимая, что конец приближается, белокурая девушка постаралась как-то выбраться из ваших цепких лап, но выходило у нее это, мягко говоря, не очень. Как бы она не пыталась избежать долгожданного для вас семяизвержения, у нее ничего не получилось, да и своими действиями она сделала лишь хуже, заставив вас еще больше ускориться."
-    "Realizing that the end was coming, the blond girl tried to get out of your clinging paws somehow, but it didn't come out very well, to say the least. No matter how she tried to avoid the ejaculation you had long awaited, she failed, and her actions only made it worse, forcing you to speed up even more."
+    "Realizing that the end was approaching, the blonde girl tried to somehow get out of your clutches, it didn't turn out well to say the least. No matter how hard she tried to avoid the ejaculation you had been waiting for a long time, she failed, and in fact only made it worse as it forced you to speed up even more."
 
 # game/character/meiko.rpy:1322
 translate english sex_meiko_1_e55beeaf:
 
     # "Только-только смирившись с этим, Мэйко получила залп вашего семени внутрь себя, а вы же благополучно отпустили ее ногу обратно на пол, явно будучи довольным своими свершениями."
-    "Just by accepting it, Meiko got a volley of your seed inside herself, and you safely let her foot back on the floor, clearly satisfied with your accomplishments."
+    "Giving up and just accepting it, Meiko receives a salvo of your cum deep inside her before you safely let her foot back on the floor, clearly happy with your accomplishments."
 
 # game/character/meiko.rpy:1327
 translate english sex_meiko_1_65f99f85:
 
     # "Подождав, пока белокурая девушка восстановит свое сбившееся дыхание, вы сразу же услышали недовольные возгласы."
-    "Waiting for the blond girl to recover her lost breath, you immediately heard the disgruntled cries."
+    "After waiting for the blonde girl to regain her breath, you immediately hear her unhappy exclaims."
 
 # game/character/meiko.rpy:1329
 translate english sex_meiko_1_6acd2ec4:
 
     # meiko "Ты… Ты зачем кончил в меня, идиот? Ты не думал, что я могу забеременеть?"
-    meiko "You... Why did you come at me, you idiot? You didn't think I could get pregnant?"
+    meiko "W... Why did you cum inside me, you jerk? You didn't think that I could get pregnant?"
 
 # game/character/meiko.rpy:1330
 translate english sex_meiko_1_c5cfcf9e:
 
     # glgg "И именно поэтому ты станешь принимать противозачаточные таблетки."
-    glgg "And that's why you're gonna take the birth control pills."
+    glgg "And that's why you're going to start taking birth control pills."
 
 # game/character/meiko.rpy:1332
 translate english sex_meiko_1_c141fc0c:
 
     # meiko "Ч… Чего?"
-    meiko "Wha... What?"
+    meiko "W... What?"
 
 # game/character/meiko.rpy:1333
 translate english sex_meiko_1_302cff33:
 
     # glgg "Ну так ты же не хочешь забеременеть, а один из самых доступных и надежных для тебя вариантов – противозачаточные."
-    glgg "Well, you don't want to get pregnant, and one of the most affordable and reliable options for you is contraception."
+    glgg "Well, you don't want to get pregnant, one of the most affordable and reliable option for you is contraception."
 
 # game/character/meiko.rpy:1335
 translate english sex_meiko_1_ae0e46d6:
 
     # meiko "Нет! Нет-нет-нет! Даже не надейся на следующие разы!"
-    meiko "No! No, no, no! Don't even hope for the next few times!"
+    meiko "No! No, no, no! Don't even hope for a next time!"
 
 # game/character/meiko.rpy:1336
 translate english sex_meiko_1_ebf3e838:
@@ -3232,13 +3232,13 @@ translate english sex_meiko_1_98833f7c:
 translate english sex_meiko_1_48860991:
 
     # glgg "Ну, это уже решать мне в первую очередь, а потом тебе. Если не хочешь, чтобы я распространил видео, то тебе придется меня слушаться всегда и в любых просьбах, а махнуть рукой сейчас – это то же самое, что и потратить время впустую."
-    glgg "Well, it's up to me first, and then to you. If you don't want me to distribute the video, you'll have to obey me at all times and in all requests, and waving your hand now is the same as wasting your time."
+    glgg "Well, that's up to me first, and then you. If you don't want me to distribute the video, you'll have to obey me at all times and for any requests, and giving up now is equivalent wasting your time."
 
 # game/character/meiko.rpy:1340
 translate english sex_meiko_1_726c780a:
 
     # glgg "Сейчас для тебя отказываться от всего этого попросту невыгодно."
-    glgg "It's just not good for you to give it all up now."
+    glgg "For you to simply give it all up now would be a waste."
 
 # game/character/meiko.rpy:1342
 translate english sex_meiko_1_8a2726ff:
@@ -3250,7 +3250,7 @@ translate english sex_meiko_1_8a2726ff:
 translate english sex_meiko_1_74ac243c:
 
     # meiko "Именно. Поэтому, если можно, прекрати мне предлагать такое."
-    meiko "That's right. So if I may, stop offering me this."
+    meiko "That's right. So please, stop suggesting me this."
 
 # game/character/meiko.rpy:1350
 translate english meiko_club_occult_50c66421:
@@ -3262,7 +3262,7 @@ translate english meiko_club_occult_50c66421:
 translate english meiko_club_occult_d39b3f81:
 
     # glgg "Мне не хватает участников, и на этот случай ты мне нужна. Будешь занимать тем, чем я скажу, работая на благополучие клуба оккультизма."
-    glgg "I don't have enough members, and in this case I need you. You'll do as I say, working for the welfare of the occult club."
+    glgg "I don't have enough members, and in this case I need you. You'll do as I say, working for the well-being of the occult club."
 
 # game/character/meiko.rpy:1353
 translate english meiko_club_occult_f0883004:
@@ -3280,25 +3280,25 @@ translate english meiko_club_occult_fdc0f8d3:
 translate english meiko_club_occult_08d37683:
 
     # meiko "Кажется, ты забываешь, что я сейчас являюсь заместителем клуба плавания. Мне так просто отсюда не уйти…"
-    meiko "You seem to be forgetting that I'm the deputy swim club now. It's not easy for me to get out of here..."
+    meiko "You seem to be forgetting that I'm the deputy of the swim club now. It's not easy for me to get out of here..."
 
 # game/character/meiko.rpy:1357
 translate english meiko_club_occult_888dce61:
 
     # glgg "Не думаю, что меня это хоть как-то касается. Я сказал – ты сделала. Если отказываешься – я распространяю имеющуюся видеозапись. Все просто, не так ли?"
-    glgg "I don't think that's any of my business. I said you did. If you say no, I'm distributing the available videotape. It's simple, isn't it?"
+    glgg "I don't think that's any of my business. I say - you do. If you say no, I'm distributing the videotape. It's that simple."
 
 # game/character/meiko.rpy:1359
 translate english meiko_club_occult_5bc9c108:
 
     # meiko "Тц… Если бы это было в действительности так просто, как ты говоришь…"
-    meiko " If it were really as simple as you say..."
+    meiko " Tch... If only it was really as simple as you say..."
 
 # game/character/meiko.rpy:1360
 translate english meiko_club_occult_93b5ca35:
 
     # glgg "Хорошо, тогда ожидай ближайший наплыв популярности, но немного не той, которую ты изначально ожидала."
-    glgg "Okay, then expect the next influx of popularity, but a little different than you originally expected."
+    glgg "Alright, then expect the next influx of popularity, but a little different than what you originally expected."
 
 # game/character/meiko.rpy:1362
 translate english meiko_club_occult_f923f2e9:
@@ -3310,13 +3310,13 @@ translate english meiko_club_occult_f923f2e9:
 translate english meiko_club_occult_5995bba7:
 
     # meiko "Я поняла тебя, хорошо… Можешь считать, что я новый участник клуба оккультизма… Через неделю…"
-    meiko "I understand you, okay... You can consider me a new member of the occult club... In a week..."
+    meiko "I understand, well... You can consider me a new member of the occult club... In a week..."
 
 # game/character/meiko.rpy:1365
 translate english meiko_club_occult_a9bf82d0:
 
     # glgg "Сколько ты сказала?"
-    glgg "How much did you say?"
+    glgg "How long did you say?"
 
 # game/character/meiko.rpy:1367
 translate english meiko_club_occult_249a6343:
@@ -3328,109 +3328,109 @@ translate english meiko_club_occult_249a6343:
 translate english meiko_club_occult_858d19d0:
 
     # glgg "Вот и отлично. Скоро я тебе дам задание. Не забудь его выполнить, пожалуйста."
-    glgg "Well, that's great. Soon I'll give you an assignment. Remember to do it, please."
+    glgg "That's great. I'll give you an assignment soon. Remember to do it."
 
 # game/character/meiko.rpy:1379
 translate english nude_meiko_club_occult_64a27979:
 
     # meiko "Ч… Что? Мало того, что ты смотрел на мое тело постоянно до этого всего, так еще и хочешь, чтобы я его показывала другим парням… Ты настолько извращенец?"
-    meiko "W... What? Not only that, you looked at my body constantly before this, so you also want me to show it to other guys... You are so pervert?"
+    meiko "W... What? Not only did you look at my body constantly before this but you also want me to show it to other guys... Are you that much of a pervert?"
 
 # game/character/meiko.rpy:1380
 translate english nude_meiko_club_occult_8cb1968c:
 
     # glgg "Я делаю это ради повышения морали участникам нашего клуба, а также чтобы им работалось лучше от осознания того, что они хоть что-то за свои труды получат."
-    glgg "I do it for the sake of increasing the morality of the members of our club and that they work better knowing that they are at least are getting something for their efforts."
+    glgg "I do it for the sake of increasing the morale of the members of our club, also they work better knowing that they're at least getting something for their efforts."
 
 # game/character/meiko.rpy:1382
 translate english nude_meiko_club_occult_3244fa0c:
 
     # meiko "Нет и еще раз нет. Такими ужасными пошлостями я заниматься не буду даже под угрозой смерти."
-    meiko "No, and No again. Such awful vulgarity, I will not do even under threat of death."
+    meiko "No, and No again. I will not do such awful depravities, I won't do it even under the threat of death."
 
 # game/character/meiko.rpy:1383
 translate english nude_meiko_club_occult_6711c57a:
 
     # glgg "Придется, если не хочешь, чтобы видео распространилось…"
-    glgg "I have to, if you do not want the video spread..."
+    glgg "You have to if you don't want the video spread..."
 
 # game/character/meiko.rpy:1385
 translate english nude_meiko_club_occult_691d73ed:
 
     # meiko "Знаешь, не поступи ты так опрометчиво, заставив меня вступить в клуб оккультизма, это, может быть, даже бы и сработало, но… Нет. Я не думаю, что ты сделаешь это, как минимум, из-за потери своей репутации в случае распространения видеозаписи. Ты не настолько глупый."
-    meiko "you know, not do you so recklessly, forcing me to join the club of the occult, that may be, even would have worked, but... No. I don't think you can do it, at least, due to the loss of its reputation in the case of the spread of the video. You're not that stupid."
+    meiko "You know, if you didn't act so recklessly, forcing me to join the club of occultism, that might've worked, but... No. I don't think you'll do it, at least due to the potential loss of reputation in the event of the video's distribution. You're not that stupid."
 
 # game/character/meiko.rpy:1386
 translate english nude_meiko_club_occult_58cabb49:
 
     # glgg "Неужто ты думаешь, что в этом случае я не пожертвую своей репутацией? Кажется, что ты забываешь простую вещь: популярность – дело наживное, а в данном случае вся эта ситуация сыграет мне на руку. Она сработает, как черный пиар, а далее последует наплыв новых участников."
-    glgg "Do you Really think that in this case I will not sacrifice my reputation? It seems that you forget one simple thing: popularity – will come with time, and in this case, this whole situation will play on my hand. It works like a sneer, and then followed by the influx of new members."
+    glgg "Do you really think that I wouldn't sacrifice my reputation for this? It seems that you're forgetting one simple thing: Popularity is a gain, and in this case the whole situation will play into my hands. It works like a sneer, followed by the influx of new members."
 
 # game/character/meiko.rpy:1388
 translate english nude_meiko_club_occult_08909631:
 
     # meiko "Иногда меня пугают твои умозаключения… Да и как ты себе представляешь это все? Думаешь, что если я буду стоять голой перед сворой парней – за этим не последуют проблемы?"
-    meiko "Sometimes you scare me your reasoning... and how do you imagine it all? I think that if I stand naked in front of a bunch of guys – this will not follow the problem?"
+    meiko "Sometimes you scare me with your reasoning... How do you imagine all this? You think that if I stand naked in front of a bunch of guys – this wouldn't be followed by issues?"
 
 # game/character/meiko.rpy:1389
 translate english nude_meiko_club_occult_e105cff0:
 
     # glgg "Тебя никто не заставляет делать именно так. В твоем случае это, можно сказать, обычное соблазнение с последующим их… Скажем так, разочарованием."
-    glgg "nobody's forcing You to do so. In your case, it can be said, the usual seduction and subsequent... shall we Say, a disappointment."
+    glgg "Nobody's forcing you to do that. In your case, it can be said that its the usual seduction and subsequent... Shall we say, disappointment."
 
 # game/character/meiko.rpy:1391
 translate english nude_meiko_club_occult_7e132fef:
 
     # meiko "Ты мало того, что извращенец, так и тот еще садист… То есть ты хочешь, чтобы я подходила к большинству парней, соблазняла их, а после благополучно обламывала?"
-    meiko "You are not that weirdo, so you are a sadist... so you want me to come to most of the guys, seduce them, and after safely break off?"
+    meiko "You are not only a pervert, but also a sadist... so you want me to approach the majority of the guys, seduce them, and then break off?"
 
 # game/character/meiko.rpy:1392
 translate english nude_meiko_club_occult_4edeb411:
 
     # glgg "Да, но ты забываешь одну важную вещь – ты должна показать им свое тело, но под предлогом, скажем так, «лучшей работы». Пусть они бегают за тобой."
-    glgg "Yes, but you forget one important thing – you have to show them my body but under the pretext of, say, «the best work». Let them run after you."
+    glgg "Yes, but you're forgetting one important thing – you have to show them your body under the pretext of, let's say, «better work». Let them run after you."
 
 # game/character/meiko.rpy:1394
 translate english nude_meiko_club_occult_fd9ebc1f:
 
     # meiko "Ты… Ты слишком жесток. Думаю, что если я и сделаю это, то об этом вскоре все равно узнают… Что ты будешь делать тогда?"
-    meiko "You... You are too cruel. I think that if I do this, it is soon all going to find out... What are you gonna do then?"
+    meiko "You... You are too cruel. I think that if I do this, they will soon find out about it anyway... What are you gonna do then?"
 
 # game/character/meiko.rpy:1395
 translate english nude_meiko_club_occult_7045f01f:
 
     # glgg "Даже если они и узнают об этом, никаких улик против меня не будет. Тебя всего-то посчитают шлюхой, которая соблазняет всех парней."
-    glgg "Even if they find out about it, no evidence against me. You will count as the slut who seduces all the guys."
+    glgg "Even if they find out, there won't be any evidence against me. You'll just be considered as a slut who seduces all the guys."
 
 # game/character/meiko.rpy:1397
 translate english nude_meiko_club_occult_fd46a78e:
 
     # meiko "Ага, а какие отличия от варианта с распространением видеозаписи и… Этим вариантом?"
-    meiko "yeah, and what are the differences from the version with the proliferation of videos and... This option?"
+    meiko "Yeah, and what are the differences from the distribution of the video and... This?"
 
 # game/character/meiko.rpy:1398
 translate english nude_meiko_club_occult_2ff0548e:
 
     # glgg "Как минимум, тебя не отчислят со школы. Им нужны веские доказательства, что ты занималась этим, а я тебе гарантирую, что их не будет, если ты пойдешь на сотрудничество."
-    glgg "at least you're not expelled from school. They need strong evidence that you did it, and I guarantee you that they will not get it, if you cooperate."
+    glgg "At least you're not expelled from the school. They need strong evidence that you did it, and I guarantee you that they won't, if you cooperate that is."
 
 # game/character/meiko.rpy:1400
 translate english nude_meiko_club_occult_6b317368:
 
     # meiko "Сотрудничество значит? Ты просто хочешь сделать из меня шлюху, придурок... Просто ради своих тупых и мнимых целей делать меня шлюхой… Нет… Здесь не только корысть, тебя это наверняка возбуждает…"
-    meiko "Cooperation means? You just want to make me a whore, asshole... Just for the sake of their stupid and imaginary goals to make me a whore... No... it's not all greed, it's certainly exciting..."
+    meiko "Cooperation means? You just want to make me a slut, asshole... Just for the sake of your stupid and imaginary goals to make me a slut... No... it's not just greed, it probably excites you..."
 
 # game/character/meiko.rpy:1401
 translate english nude_meiko_club_occult_64e60bd4:
 
     # glgg "Оно тебя не касается. Я сказал – ты сделала. Думаю, ты понимаешь, что мне нет проку тебя обманывать, по крайней мере пока что, да и выбора у тебя нет особого: либо ты шлюха и тебя выгоняют со школы, либо ты шлюха через большой промежуток времени и тебя не выгоняют со школы."
-    glgg "It does not concern you. I say something you do it. I think you understand that I've have no use to lie to you, at least yet, and you have no choice: either you're a whore and you're out from school, or you're a whore in a long period of time and do not expel you from school."
+    glgg "It doesn't concern you. I say something - you do it. I think you understand that I have no use lying to you, at least for now, and you have no choice: Its either you're a slut and you're out from school, or you're a slut after a long period of time and not expelled from school."
 
 # game/character/meiko.rpy:1403
 translate english nude_meiko_club_occult_76cc860b:
 
     # meiko "Ты… Ты меня серьезно пугаешь… Но… У меня не выбора, так?"
-    meiko "You're... You're seriously scaring me... But... I Have no choice, right?"
+    meiko "You... You seriously scare me... But... I have no choice, right?"
 
 # game/character/meiko.rpy:1404
 translate english nude_meiko_club_occult_773f49dd:
@@ -3442,7 +3442,7 @@ translate english nude_meiko_club_occult_773f49dd:
 translate english nude_meiko_club_occult_c1ed890e:
 
     # meiko "Так… Получается, что я должна попросту соблазнять парней с целью повышения их эффективности внутри клуба, но делать это я должна так, чтобы о нашем разговоре никто не узнал?"
-    meiko "So... it Turns out that I should just seduce guys with a view to improving their efficiency inside the club, but to do that I need to make sure that none is going to find out about this conversation?"
+    meiko "So... It turns out that I should seduce guys with a view to improve their efficiency inside the club, but to do that I need to make sure that none is going to find out about this conversation?"
 
 # game/character/meiko.rpy:1407
 translate english nude_meiko_club_occult_71001353:
@@ -3472,19 +3472,19 @@ translate english body_meiko_club_occult_5c74e77a:
 translate english body_meiko_club_occult_9d2bb5ad:
 
     # meiko "Ты… Меня мало того, что теперь постоянно голой видят, непонятно на меня смотрят, так еще…"
-    meiko "You... Me enough that now constantly see naked, it is unclear to me, so still..."
+    meiko "You... Not only are they constantly staring at me now, they are looking at me incomprehensibly, a lot more..."
 
 # game/character/meiko.rpy:1420
 translate english body_meiko_club_occult_14a9a3aa:
 
     # meiko "В общем… Зачем? Почему ты хочешь так разрушить мою школьную жизнь?"
-    meiko "In General... Why? Why would you want to ruin my school life?"
+    meiko "Why? Why do you want to ruin my school life?"
 
 # game/character/meiko.rpy:1421
 translate english body_meiko_club_occult_e523e8a6:
 
     # glgg "Кажется, что для тебя уже слишком поздно бросать начатое… Ты так не думаешь?"
-    glgg "it Seems that for you it's too late to give up... don't You think?"
+    glgg "It seems like it's too late for you to give up... Don't you think?"
 
 # game/character/meiko.rpy:1423
 translate english body_meiko_club_occult_bc1078c2:
@@ -3496,49 +3496,49 @@ translate english body_meiko_club_occult_bc1078c2:
 translate english body_meiko_club_occult_27654938:
 
     # glgg "Понимаю, но мы лишь делаем выгодные друг другу вещи. Скажем так, мы с тобой партнеры."
-    glgg "I Understand, but we only do profitable things to each other. Let's just say, we're partners."
+    glgg "I Understand, but we are only doing things beneficial to each other. Let's just say you and I are partners."
 
 # game/character/meiko.rpy:1426
 translate english body_meiko_club_occult_f9ca69b3:
 
     # meiko "ДРУГ ДРУГУ? В каком месте выполнение пошлых желаний – взаимовыгодное предложение, придурок?"
-    meiko "To EACH other? In what place the performing vulgar desires – a win-win, asshole?"
+    meiko "EACH OTHER? In what place is performing depraved desires – a win-win situation, asshole?"
 
 # game/character/meiko.rpy:1427
 translate english body_meiko_club_occult_4d226ed1:
 
     # glgg "Ну я же не распространяю видеозапись, так? Значит мое предложение выгодно для тебя, хоть и не в равнозначном смысле."
-    glgg "Well, I do not distribute the video, right? So my proposal is beneficial for you, though not in an equivalent sense."
+    glgg "Well, I don't distribute the video, do I? So my proposal is beneficial for you, though not in the equivalent sense."
 
 # game/character/meiko.rpy:1429
 translate english body_meiko_club_occult_5a74dcc5:
 
     # meiko "Я… Я тебя так ненавижу, придурок…"
-    meiko "I... I hate you so much, you moron..."
+    meiko "I... I hate you so much, you asshole..."
 
 # game/character/meiko.rpy:1430
 translate english body_meiko_club_occult_12dd8440:
 
     # glgg "Мне, знаешь ли, обидно… Можешь быть чуточку повежливей?"
-    glgg "You know, it's a shame... Can be a little more polite?"
+    glgg "You know, it hurts... Can you be a little more polite?"
 
 # game/character/meiko.rpy:1432
 translate english body_meiko_club_occult_9a050833:
 
     # meiko "Пошел ты к черту, извращенный придурок!"
-    meiko "Fuck you to hell, you perverted asshole!"
+    meiko "Fuck you, you perverted asshole!"
 
 # game/character/meiko.rpy:1433
 translate english body_meiko_club_occult_9f48a3c8:
 
     # glgg "В общем, как я понял, ты будешь еще долго недовольной. Ты будешь выполнять мой приказ или нет?"
-    glgg "In General, I understand it, you are going to be unhappy. You will follow my orders or not?"
+    glgg "All in all, I understand it, you are going to be unhappy. Will you follow my orders or not?"
 
 # game/character/meiko.rpy:1435
 translate english body_meiko_club_occult_10d68e53:
 
     # meiko "Я? Ну…"
-    meiko "I? Well..."
+    meiko "Me? Well..."
 
 # game/character/meiko.rpy:1437
 translate english body_meiko_club_occult_313987b9:
@@ -3550,7 +3550,7 @@ translate english body_meiko_club_occult_313987b9:
 translate english body_meiko_club_occult_602b8308:
 
     # glgg "Вот и отлично. Можешь приступать."
-    glgg "That's fine. You can get started."
+    glgg "That's good. You can get started."
 
 # game/character/meiko.rpy:1444
 translate english sex_meiko_club_occult_8a2726ff:
@@ -3568,25 +3568,25 @@ translate english sex_meiko_club_occult_dff64c48:
 translate english sex_meiko_club_occult_234e7b2d:
 
     # meiko "Ты, блять, издеваешься надо мной, чертов придурок? Какого вообще черта я должна заниматься этим всем с кучей парней? Я тебе не шлюха!"
-    meiko "Are you fucking kidding me, you fucking prick? Why the fuck am I supposed to do all this with a bunch of guys? I'm not a whore!"
+    meiko "Are you fucking kidding me, you fucking prick? Why the fuck am I supposed to do all this with a bunch of guys? I'm not a slut!"
 
 # game/character/meiko.rpy:1448
 translate english sex_meiko_club_occult_15d6a8e5:
 
     # glgg "Грубо как… Не шлюха, а девушка легкого поведения. В моем понимании ты ей стала еще тогда, когда трахалась со своим пареньком в общественном месте."
-    glgg "How rude... Not a whore, and a girl of easy virtue. In my understanding she was when he fucked with his boyfriend in a public place."
+    glgg "How rude... Not a slut, a girl of easy virtue. In my understanding she was, when she fucked with her boyfriend in a public place."
 
 # game/character/meiko.rpy:1450
 translate english sex_meiko_club_occult_effdc550:
 
     # meiko "Ты… Это не твое дело! Я не шлюха и не собираюсь отдавать свое тело на съедение этим… Этим шакалам!"
-    meiko "You... It's none of your business! I'm not a whore and i do not intend to give me body to be devoured by these... these jackals!"
+    meiko "You... It's none of your business! I'm not a slut and I do not intend to give my body to be devoured by these... These jackals!"
 
 # game/character/meiko.rpy:1451
 translate english sex_meiko_club_occult_7a6fdee6:
 
     # glgg "Придется. Либо ты делаешь шаг назад, буквально-таки в обрыв, либо ты продолжаешь сотрудничать со мной."
-    glgg "You have. Either you take a step back, literally, still in the open, or you continue to cooperate with me."
+    glgg "You have to. Either you take a step back, literally onto a cliff, or you continue to cooperate with me."
 
 # game/character/meiko.rpy:1453
 translate english sex_meiko_club_occult_6f2275a8:
@@ -3598,7 +3598,7 @@ translate english sex_meiko_club_occult_6f2275a8:
 translate english sex_meiko_club_occult_35a0ba4d:
 
     # glgg "Придется, если, конечно, ты не хочешь плохого исхода для себя…"
-    glgg "You have, of course, if you don't want a bad outcome for themselves..."
+    glgg "You have to, of course, if you don't want a bad outcome for yourselves..."
 
 # game/character/meiko.rpy:1456
 translate english sex_meiko_club_occult_875fa337:
@@ -3610,19 +3610,19 @@ translate english sex_meiko_club_occult_875fa337:
 translate english sex_meiko_club_occult_429d69e7:
 
     # glgg "О как… Ты разочаруешь своих бедных фанатиков, которые так и жаждут тебя и твоего тела? Негоже это так поступать… Пожалей уж их."
-    glgg "Oh, how... You disappoint your poor fanatics who are so hungry for you and your body? It's worthless to do so... Pity really."
+    glgg "Oh geez... You disappoint your poor fanatics who are so hungry for you and your body? It's no good doing so... Pity really."
 
 # game/character/meiko.rpy:1459
 translate english sex_meiko_club_occult_8b468dbf:
 
     # meiko "Я тебе могу хоть целый день говорить слова отказа… Твое мнение ничего не изменит. "
-    meiko "I can tell you all day but my opinion its the same... Your opinion will not change anything."
+    meiko "I can refuse you all day... Your opinion won't change anything."
 
 # game/character/meiko.rpy:1460
 translate english sex_meiko_club_occult_2283042e:
 
     # glgg "Мое мнение-то возможно и ничего, а вот мнение общественности, когда все узнают о твоем образе жизни…"
-    glgg "My opinion-and then maybe nothing but the opinion of the public when they hear about your way of life..."
+    glgg "My opinion - it possibly means nothing, yes, but the opinion of the public when they hear about your way of life..."
 
 # game/character/meiko.rpy:1462
 translate english sex_meiko_club_occult_b34206d4:
@@ -3634,7 +3634,7 @@ translate english sex_meiko_club_occult_b34206d4:
 translate english sex_meiko_club_occult_785ee94e:
 
     # glgg "Мы договаривались о том, что я не буду распространять видео в случае твоего полного подчинения. Сейчас же ты пытаешься избежать своих прямых обязанностей. Да, возможно, они и сложны, но договор есть договор…"
-    glgg "We have agreed that I will not distribute the video in your submission. Now you are trying to avoid their duties. Yes, they may be complex, but the contract is the contract..."
+    glgg "We have agreed that I will not distribute the video for your submission. Now you are trying to avoid direct orders. Yes, they may be complex, but the contract is the contract..."
 
 # game/character/meiko.rpy:1465
 translate english sex_meiko_club_occult_8a2726ff_1:
@@ -3652,13 +3652,13 @@ translate english sex_meiko_club_occult_b7b0377d:
 translate english sex_meiko_club_occult_9bf966c0:
 
     # meiko "Ты… Я тебя ненавижу… Ты – худшее, что произошло в моей жизни, и именно ты ее полностью сейчас разрушил… Я не смогу после этого всего смотреть на себя в зеркало, а ты… Тебе попросту все равно…"
-    meiko "You... I hate you... You're the worst thing that happened in my life, and that you totally now destroyed... I can't after all this look at myself in the mirror, and you... You just still..."
+    meiko "You... I hate you... You're the worst thing that has happened in my life, and it was you who completely destroyed it... I can't even look at myself in the mirror, and you... You just still..."
 
 # game/character/meiko.rpy:1469
 translate english sex_meiko_club_occult_c5c57650:
 
     # glgg "Возможно, я и ужасен, но даже сейчас ты избегаешь своих прямых обязанностей быть обычной шлюхой, которая дает всем и вся на благо клуба оккультизма."
-    glgg "Maybe I'm terrible, but even now you're avoiding your duties to be a regular slut who gives everyone and everything the benefit of the club of the occult."
+    glgg "Maybe I'm terrible, but even now you're avoiding your duties to be the regular slut who gives everyone and everything the benefit of the occult club."
 
 # game/character/meiko.rpy:1471
 translate english sex_meiko_club_occult_8a2726ff_2:
@@ -3670,13 +3670,13 @@ translate english sex_meiko_club_occult_8a2726ff_2:
 translate english sex_meiko_club_occult_ab7e8da5:
 
     # meiko "Если у меня когда-нибудь появится возможность тебе отомстить, ты не сомневайся… Я сделаю это и разрушу твою жизнь, как ты разрушил мою… Я тебя заставлю пожалеть о том, что когда-то ты сделал со мной…"
-    meiko "If I ever have the opportunity to take revenge on you, you do not doubt... I'll do it and ruin your life like you ruined mine... I'll make you regret what you did to me..."
+    meiko "If I ever have the opportunity to take revenge on you, I won't hesitate... I'll do it and ruin your life just like you ruined mine... I'll make you regret what you did to me..."
 
 # game/character/meiko.rpy:1474
 translate english sex_meiko_club_occult_663160e9:
 
     # glgg "Не сомневаюсь, а сейчас беги к своим кавалерам, шлюха."
-    glgg "I have no doubt, now go to your cavaliers, you whore."
+    glgg "I have no doubt, now go to your gentlemen, slut."
 
 # game/character/meiko.rpy:1476
 translate english sex_meiko_club_occult_748a87ba:
@@ -3694,13 +3694,13 @@ translate english sex_meiko_club_occult_0b84620a:
 translate english meiko_no_1a3894e1:
 
     # meiko "Извини, но сейчас я точно не в настроении с тобой разговаривать… Может, давай чуть позже?"
-    meiko "I'm Sorry, but I'm not in the mood to talk to you... Maybe later?"
+    meiko "I'm sorry, but I'm not in the mood to talk to you... Maybe later?"
 
 # game/character/meiko.rpy:1483
 translate english meiko_no_f1893a5a:
 
     # glgg "С чего это ты так решила, что внезапно на наши похождения будет влиять твое настроение? Я сказал – ты сделала. Не выполняешь мои приказы – я распространяю видео. Я ясно излагаю?"
-    glgg "Why did you think that suddenly, our adventures will influence your mood? I said you did. Don't give me orders, I distribute the video. Am I clear?"
+    glgg "Why did you decide that your mood suddenly has an effect on our adventures? I said something - you do it. Don't follow my orders, I distribute the video. Am I clear?"
 
 # game/character/meiko.rpy:1485
 translate english meiko_no_467a6c8c:
@@ -3712,117 +3712,117 @@ translate english meiko_no_467a6c8c:
 translate english meiko_no_6f267dda:
 
     # glgg "Что это за проблемы, что ты внезапно стала равнодушна к компромату на тебя?"
-    glgg "What is the problem that you suddenly become indifferent to me?"
+    glgg "What's the that problem that suddenly caused you to become indifferent to the dirt on you?"
 
 # game/character/meiko.rpy:1488
 translate english meiko_no_0b030511:
 
     # meiko "Меня… Меня бросили… Можешь, пожалуйста, войти в положение и не трогать меня некоторое время? Мне сейчас действительно тошно от всего и даже не хочется о чем-либо думать."
-    meiko "I... I got dumped... Can you please get into position and not touch me for a while? right now im really sick and not even want to think about it."
+    meiko "I... I got dumped... Can you please go and not bother me for a while? I'm reallly sick of everything right now and I don't even want to think about anything."
 
 # game/character/meiko.rpy:1489
 translate english meiko_no_a4a340d3:
 
     # glgg "Хорошо, я подойду чуть позже."
-    glgg "I'll join you later."
+    glgg "Okay, I'll come back later."
 
 translate english strings:
 
     # game/character/meiko.rpy:217
     old "Осознавая, что задуманное деяние далеко не из добрых, и оно может вам еще вполне себе аукнуться, вы решили…"
-    new "Realizing that the intended action is not a good one, and it may still be quite a good thing for you, you decided…"
+    new "Aware that the intended act is far from good, and that it may still be good enough for you, you have decided..."
 
     # game/character/meiko.rpy:217
     old "{color=#000000}Запрятать видеокамеру в укромное место\n{size=21}{i}5 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Hide the video camera in a secret place\n{size=21}{i}5 power{/i}{/size}{/color}"
+    new "{color=#000000}Hide the video camera in a hidden spot.\n{size=21}{i}5 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:217
     old "{color=#000000}А оно мне нужно?\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Do I need it?\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Do I really need it?\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:301
     old "{color=#000000}А? Да, впрочем, ничего...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Аh? Yeah, nothing, though...\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Huh? Yeah, nothing, though...\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:301
     old "{color=#000000}Может, ты мне расскажешь,\nчто вы делали с [name_meiko] в подсобке?\n{size=21}{i}5 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Can you tell me what you\nwere doing with [name_meiko] in the back room?\n{size=21}{i}5 power{/i}{/size}{/color}"
+    new "{color=#000000}Can you tell me what you\nwere doing with [name_meiko] in the back room?\n{size=21}{i}5 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:316
     old "{color=#000000}Знаешь, у меня есть видеозапись того процесса.\n{size=21}{i}2 энергии{/i}{/size}{/color}"
-    new "{color=#000000}You know, I have a video of this process.\n{size=21}{i}2 power{/i}{/size}{/color}"
+    new "{color=#000000}You know, I have a video of this happening.\n{size=21}{i}2 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:316
     old "{color=#000000}Достаточно сложно поверить в это, учитывая, что слухи на пустом месте не появляются.\n{size=21}{i}3 энергии{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/30 красноречия{/i}{/size}{/color}"
-    new "{color=#000000}It's hard enough to believe that, given that rumors just like thatcome out.\n{size=21}{i}3 power{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/30 erudition{/i}{/size}{/color}"
+    new "{color=#000000}It's hard to believe that, considering that rumors don't appear from nothing.\n{size=21}{i}3 energy{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/30 erudition{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:316
     old "{color=#000000}Похоже, что я тебя с кем-то перепутал...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Looks like I got you confused with someone else....\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Looks like I got you confused with someone else....\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:370
     old "{color=#000000}Знаешь, я был бы не против, если бы ты прекратила развивать свой клуб. Что думаешь?\n{size=21}{i}3 энергии{/i}{/size}{/color}"
-    new "{color=#000000}You know, I wouldn't mind if you stopped developing your club. What do you think?\n{size=21}{i}3 power{/i}{/size}{/color}"
+    new "{color=#000000}You know, I wouldn't mind if you stopped developing your club. What do you think?\n{size=21}{i}3 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:370
     old "{color=#000000}Если ты не хочешь, чтобы видеозапись благополучно ушла в сеть, то с этих пор ты моя новая игрушка, вещь или, если говорить проще, девчушка на побегушках.\n{size=21}{i}4 энергии{/i}{/size}{/color}"
-    new "{color=#000000}If you don't want the video to go online, then from now on you are my new toy, thing, or, to put it more simply, an errand girl.\n{size=21}{i}4 power{/i}{/size}{/color}"
+    new "{color=#000000}If you don't want the video to go online, then from now on you are my new toy, thing, or, to put it more simply, an errand girl.\n{size=21}{i}4 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:409
     old "{color=#000000}Я хочу потрогать твою грудь. Прямо сейчас.\n{size=21}{i}2 энергии{/i}{/size}{/color}"
-    new "{color=#000000}I want to touch your breasts. Right now.\n{size=21}{i}2 power{/i}{/size}{/color}"
+    new "{color=#000000}I want to touch your breasts. Right now.\n{size=21}{i}2 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:409
     old "{color=#000000}Я хочу, чтобы ты сняла свой купальник.\n{size=21}{i}4 энергии{/i}{/size}{/color}"
-    new "{color=#000000}I want you to take off your bathing suit.\n{size=21}{i}4 power{/i}{/size}{/color}"
+    new "{color=#000000}I want you to take off your swimsuit.\n{size=21}{i}4 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:409
     old "{color=#000000}Знаешь, думаю, что я чуть позже скажу о своих желаниях… Можешь расслабиться.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}You know, I think I'll tell you what I want later... You can relax.\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}You know, I think I'll tell you what I want later... You can relax for now.\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:526
     old "{color=#000000}Потрогать ее грудь\n{size=21}{i}2 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Touch her breasts\n{size=21}{i}2 power{/i}{/size}{/color}"
+    new "{color=#000000}Touch her breasts.\n{size=21}{i}2 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:526
     old "{color=#000000}Дальше наслаждаться видом\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Continue to enjoy the view\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Continue to enjoy the view.\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:686
     old "{color=#000000}Хотелось бы на это посмотреть, но что-то я сильно сомневаюсь в подобном стечении обстоятельств, когда ты - обычная рабыня, верующая во всевышние силы, которые когда-то покарают меня... Знаешь, будь оно действительно так, многие злодеи бы не получали выгоду со своих действий.\n{size=21}{i}0 энергии{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/30 красноречия{/i}{/size}{/color}"
-    new "{color=#000000}I would like to see it, but I strongly doubt such a combination of circumstances, when you are an ordinary slave who believes in the Supreme forces that will one day punish me... You know , if it were true, a lot of villains wouldn't benefit from their actions.\n{size=21}{i}0 power{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/30 erudition{/i}{/size}{/color}"
+    new "{color=#000000}I'd like to see it, but I strongly doubt that such a combination of circumstances would happen, when you are an but ordinary slave who believes in the supreme forces that will one day punish me... You know , if it was true, a lot of villains wouldn't benefit from their actions.\n{size=21}{i}0 energy{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/30 erudition{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:686
     old "{color=#000000}Ударить девушку\n{size=21}{i}1 энергии{/i}{/size}\n{size=21}{i}[stats_forces_gg_info]/30 силы{/i}{/size}{/color}"
-    new "{color=#000000}Hit a girl.\n{size=21}{i}1 power{/i}{/size}\n{size=21}{i}[stats_forces_gg_info]/30 forces{/i}{/size}{/color}"
+    new "{color=#000000}Hit the girl.\n{size=21}{i}1 energy{/i}{/size}\n{size=21}{i}[stats_forces_gg_info]/30 strength{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:686
     old "{color=#000000}Возможно так и будет, но к тому времени я уже буду доволен полученным результатом с тебя.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}It maybe so, but by then I'll be happy with the result you've given me.\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Maybe so, but by then I'll be happy with the result you've given me.\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:967
     old "{color=#000000}Может, будешь вежливей? А то желание хранить видеозапись у меня потихоньку отпадает...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Would you be more polite? The desire to store the video is slowly disappearing from my mind...\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Would you please be more polite? The desire to keep the video is slowly disappearing from my mind...\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:967
     old "{color=#000000}Да-да, подожди минуту.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Yeah, yeah, hang on a minute.\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Yeah, yeah, hang on a minute.\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:1108
     old "{color=#000000}Потерпишь, если, конечно, ты не хочешь, чтобы то видео ушло в сеть.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Be patient, unless you want that video to go online.\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Be patient, unless you want that video to go online.\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:1108
     old "{color=#000000}А? Конечно…\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Аh? Maybe...\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Аh? Maybe...\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:1279
     old "{color=#000000}Многие моральные устои были разрушены тобой же, поэтому-то я не думаю, что подобное мнение прямо сейчас что-то да изменит в лучшую сторону, кроме того, что я распространю то видео, которое сделает хуже не только тебе, но и твоему дружку.\n{size=21}{i}3 энергии{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/45 красноречия{/i}{/size}{/color}"
-    new "{color=#000000}Many morals have been destroyed by you, so I don 't think that such an opinion right now will change anything for the better, except that I will distribute the video that will make it worse not only for you, but also for your friend.\n{size=21}{i}3 power{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/45 erudition{/i}{/size}{/color}"
+    new "{color=#000000}Many morals have been destroyed by you, so I don 't think that such an opinion right now will change anything for the better, except that I will distribute the video which would make it worse not only for you, but also for your boyfriend.\n{size=21}{i}3 energy{/i}{/size}\n{size=21}{i}[stats_erudition_gg_info]/45 erudition{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:1279
     old "{color=#000000}Ну, тут я бессилен.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
-    new "{color=#000000}Well, I'm powerless here.\n{size=21}{i}0 power{/i}{/size}{/color}"
+    new "{color=#000000}Well, I'm powerless here.\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/character/meiko.rpy:141
     old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}1. Вступи в клуб оккультизма.{/color}{/size}{/font}"
@@ -3835,11 +3835,11 @@ translate english strings:
 
     # game/character/meiko.rpy:145
     old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}2. [[Принуждение]{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}2. [[Compulsion]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}2. [[Coercion]{/color}{/size}{/font}"
 
     # game/character/meiko.rpy:146
     old "{u}{font=gui/fonts/alegreya.ttf}{size=31}{color=#282828}2. [[Принуждение]{/u}{/color}{/size}{/font}"
-    new "{u}{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}2. [[Compulsion]{/color}{/size}{/font}{/u}"
+    new "{u}{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}2. [[Coercion]{/color}{/size}{/font}{/u}"
 
     # game/character/meiko.rpy:149
     old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}3. [[Завершить разговор]{/color}{/size}{/font}"
@@ -3851,11 +3851,11 @@ translate english strings:
 
     # game/character/meiko.rpy:154
     old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}1. [[Принуждение]{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}1. [[Compulsion]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}1. [[Coercion]{/color}{/size}{/font}"
 
     # game/character/meiko.rpy:155
     old "{u}{font=gui/fonts/alegreya.ttf}{size=31}{color=#282828}1. [[Принуждение]{/u}{/color}{/size}{/font}"
-    new "{u}{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}1. [[Compulsion]{/color}{/size}{/font}{/u}"
+    new "{u}{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}1. [[Coercion]{/color}{/size}{/font}{/u}"
 
     # game/character/meiko.rpy:158
     old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#282828}2. [[Завершить разговор]{/color}{/size}{/font}"
@@ -3870,4 +3870,4 @@ translate english strings:
 
     # game/character/meiko.rpy:138
     old "{color=#282828}{font=gui/fonts/alegreya.ttf}{size=30}Я очень надеюсь, что ты не пришел сюда только из-за\nсвоих этих пошлостей...{/color}{/size}{/font}"
-    new ""
+    new "{color=#282828}{font=gui/fonts/alegreya.ttf}{size=30}I really hope that you didn't come here just for\nyour dipravities...{/color}{/size}{/font}"
